@@ -6,6 +6,9 @@ date:   2015-01-10 00:47:48
 tags: [blogging]
 ---
 
+- .
+{:toc}
+
 ## Install Jekyll
 
 You could write and edit posts without installing Jekyll on your computer. Just edit the markdown files in `_posts` directory. However with Jekyll you're able to preview the site.
@@ -20,9 +23,9 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 # Markdown Syntax
 
-Source code:
+Check markdown source of this post for the syntax.
 
-~~~ ruby
+{% highlight ruby %}
 def show
   @widget = Widget(params[:id])
   respond_to do |format|
@@ -30,7 +33,7 @@ def show
     format.json { render json: @widget }
   end
 end
-~~~
+{% endhighlight %}
 
 # Issues
 
