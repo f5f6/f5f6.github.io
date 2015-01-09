@@ -7,3 +7,9 @@ url: "http://f5f6.github.io"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: 1..3
+  use_coderay: true
+  coderay_line_numbers: table
+  coderay_tab_width: 2
