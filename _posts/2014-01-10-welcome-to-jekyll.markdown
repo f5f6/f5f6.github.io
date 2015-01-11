@@ -42,4 +42,4 @@ Every Body可以将想与大家分享的个人日志、EverNote笔记， 聚合�
 
 ## 2.4 整理版Wiki
 
-编辑们会将以上内容， 归类整理为Wiki，方便速查。
+编辑们会将以上内容， 归类整理为[Wiki](http://f5f6.github.io/all/)，方便速查。

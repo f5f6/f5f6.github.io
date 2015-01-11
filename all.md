@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All
+title: 分类整理大全版
 permalink: /all/
 ---
 
