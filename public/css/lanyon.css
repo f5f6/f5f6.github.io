@@ -297,7 +297,7 @@ a.sidebar-nav-item:focus {
   padding-top: 2rem;
   padding-bottom: .5rem;
   padding-left: .3rem;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+  text-shadow: 1px 2px 5px #fff;
   background-color: #f9f9f9;
 }
 
