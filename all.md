@@ -17,9 +17,6 @@ permalink: /all/
 
 * [Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) Storm是流式处理大数据的框架，可用于物联网应用 -- Calvin
 
-# IOT(物联网)
-
-* [Node-Red](http://nodered.org/)  IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API（应用编程接口）。它可以在Raspberry Pi上面运行，60000多个模板可用来扩展其功能。 AC与它， 会是竞争与学习的关系么？-- Wenzheng Zhu
 
 # Java
 
@@ -45,4 +42,7 @@ permalink: /all/
 
 * [2014年WEB高手都在做什么](http://yafeilee.me/blogs/54995f3a6c69342f6d100000) GulpJS啦，Bower啦，Angular.js啦，我们的图书馆项目也有用哦  -- Calvin
 
+# Others
+
+* [Node-Red](http://nodered.org/)  IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API（应用编程接口）。它可以在Raspberry Pi上面运行，60000多个模板可用来扩展其功能。 AC与它， 会是竞争与学习的关系么？-- Wenzheng Zhu
 
