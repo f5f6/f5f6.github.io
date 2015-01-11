@@ -25,6 +25,11 @@
       {% endif %}
     {% endfor %}
 
+    <span class="sidebar-nav-item"">Categories</span>
+	{% for category in site.categories %} 
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}categories/#{{ category[0] }}-ref">&gt; {{ category[0] }}</a>
+	{% endfor %}
+
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
   </nav>
 

@@ -309,6 +309,10 @@ a.sidebar-nav-item:focus {
   color: #9a9a9a;
 }
 
+.post-meta-right {
+  float: right;
+}
+
 .page h1,
 .post h1 {
   font-size: 1.8rem;
