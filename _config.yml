@@ -1,12 +1,25 @@
 # Site settings
-title: Floor 5, Floor 6
-#email: your-email@domain.com
-description: 在五楼与六楼之间爬上爬下的程序猿
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://f5f6.github.io"
+title:               Floor 5, Floor 6
+tagline:             在五楼与六楼之间爬上爬下的程序猿
+description:         'f5f6是什么？……'
+baseurl:             /                          # the subpath of your site, e.g. /blog/
+url:                 http://f5f6.github.io
 
 # Build settings
 markdown: kramdown
+#markdown:            redcarpet
 kramdown:
   auto_ids: true
   toc_levels: 1..3
+
+
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+
+paginate:            5
+
+# Custom variables
+github:
+  repo:              https://github.com/f5f6
