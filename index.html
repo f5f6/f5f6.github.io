@@ -15,9 +15,8 @@ layout: default
         
         <article class="post-content">
           {{ post.content }}
+          <span class="post-meta-right">{% if post.tags %} tags: {{ post.tags }}{% endif %}</span>
         </article>
-        
-        <span class="post-meta-right">{% if post.tags %} tags: {{ post.tags }}{% endif %}</span>
       </li>
     {% endfor %}
   </ul>
