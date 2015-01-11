@@ -6,7 +6,7 @@ date:   2015-01-11 11:47:48
 category: [weekly]
 ---
 
-Status: draft, [在线编辑](https://github.com/f5f6/f5f6.github.io/edit/master/_posts/2015-01-11-weekly-1.markdown)
+状态: 草稿, [在线编辑](https://github.com/f5f6/f5f6.github.io/edit/master/_posts/2015-01-11-weekly-1.markdown)
 
 ## 卷首语
 

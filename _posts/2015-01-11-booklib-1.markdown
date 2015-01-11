@@ -6,8 +6,6 @@ date:   2015-01-11 10:47:48
 category: [project]
 ---
 
-Status: draft
-
 ## 缘起
 
 [美团 P2P 图书馆实践： 5天时间1845册图书共享入库](http://tech.meituan.com/mt-library-introduce.html)
