@@ -1,11 +1,13 @@
 ---
 layout: page
-title: 分类整理大全版
+title: 日志分类整理
 permalink: /all/
 ---
 
 - .
 {:toc}
+
+将所有日志归类整理，方便大家快速查阅。
 
 # 5f6f Project
 
