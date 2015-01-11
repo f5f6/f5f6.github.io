@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "开张大吉"
-author: aleung，calvin
+title:  "开张大吉, 恭喜发财"
+author: aleung, calvin
 date:   2014-12-28 00:47:48
-tags: [blog]
 ---
 
-- .
-{:toc}
+写在最开始的话。
 
 <!--more-->
 
