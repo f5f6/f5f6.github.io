@@ -53,5 +53,5 @@ IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可�
 
 # 其他
 
-* [(原创)我的2014技术流水帐]， 作者： Calvin
+* [(原创)我的2014技术流水帐](http://calvin1978.blogcn.com/articles/my2014.html)， 作者： Calvin
 * [一个技术从业人员眼中的2014](http://timyang.net/tao/thoughts-2014/) by Timyang(新浪微博技术总监)

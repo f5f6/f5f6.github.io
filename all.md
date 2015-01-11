@@ -36,7 +36,7 @@ permalink: /all/
 
 ## 原创
 
-鸟哥聊Scala？
+了哥聊Scala？
 
 # Web前端
 
