@@ -25,21 +25,13 @@ Status: draft
 
 # 部署
 
-PASS平台： [Heroku](https://www.heroku.com)
+PASS平台： [Heroku](https://www.heroku.com)， 有免费的512M JVM.
 
 应用服务器： SpringBoot内置Tomcat， 只需java -jar target/bootlib.war 启动
 
 数据库： 开发时用嵌入式的H2， 生产环境用Heroku提供的PostgreSQL，但免费版只能存1万行数据
 
-持续交付： [CodeShip](https://codeship.com)自动持续地将代码从github部署到Heroku。 但免费版每月只能搬运100次， 因此只监控代码的production分支变化
-
-# 地址
-
-运行地址：[booklib.herokuapp.com](http://booklib.herokuapp.com)
-=======
-数据库： 开发时使用嵌入式的H2， 而生产环境使用Heroku提供的Postgresql，但免费版有1万行数据的限制。
-
-持续交付： 使用[CodeShip](https://codeship.com), 自动将代码从github 搬运到Heroku, 实现持续交付。 但CodeShip免费版每月只能搬运100次， 因此只监控代码的production分支。
+持续交付： [CodeShip](https://codeship.com)自动将代码持续地从github部署到Heroku。 但免费版每月只能搬运100次， 因此只监控代码的production分支变化
 
 # 地址
 
