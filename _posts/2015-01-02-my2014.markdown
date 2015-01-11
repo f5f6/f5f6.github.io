@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "我的2014技术流水帐"
+author: Calvin
+date:   2015-01-02 11:47:48
+tags: [blogging]
+---
+
+2014，平缓的一年，记一篇平淡的流水帐，没有形而上的思考。有些是自己弄的，有些是同事在弄自己只在旁边看的。
+
+
+[全文阅读](http://calvin1978.blogcn.com/articles/my2014.html) 
