@@ -3,6 +3,7 @@ layout: post
 title:  "开张大吉"
 author: aleung，calvin
 date:   2014-12-28 00:47:48
+tags: [blog]
 ---
 
 - .
