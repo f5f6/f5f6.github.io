@@ -10,27 +10,33 @@ Status: draft
 
 # 缘起
 
-[美团 P2P 图书馆实践：5天时间1845册图书共享入库](http://tech.meituan.com/mt-library-introduce.html)
+[美团 P2P 图书馆实践： 5天时间1845册图书共享入库](http://tech.meituan.com/mt-library-introduce.html)
 
-我们也曾做过集中采购的图书馆，慢慢的就消失了，也许P2P才是正确的路。
+我们也曾做过集中采购集中管理的图书馆，慢慢的就消失了，也许P2P才是正确的路。
 
 # 架构
 
-Anjular.js(Single Page Application) + Spring Boot (Restful Service)
+[Anjular.js](https://angularjs.org/)(Single Page Application) + [Spring Boot](http://projects.spring.io/spring-boot/)(Restful Service) + 豆瓣API
 
 新一代全栈工程师的标准架构， 可作日后培训的样板工程。
 
-其中展示了CGC前端第一人俊雄同志在前端开发的各种最佳实践， 同时也展示了后台服务的新趋势新潮流，特别是如何用最短的时间最少的代码，开发一个功能完备的业务系统，
+其中展示了CGC前端第一人俊雄同志在前端开发的各种最佳实践， 同时也将展示后台服务的新潮流新趋势，特别是如何用最短的时间最少的代码，开发一个功能完备的业务系统
 
 # 部署
 
-PASS平台： Heroku， 应用地址：[booklib.herokuapp.com](http://booklib.herokuapp.com)
+PASS平台： [Heroku](https://www.heroku.com)
 
 应用服务器： SpringBoot内置Tomcat， 只需java -jar target/bootlib.war 启动
 
-数据库： 开发时使用嵌入式的H2，而生产环境使用Heroku提供的Postgresql，但免费版有1万行的限制。
+数据库： 开发时用嵌入式的H2， 生产环境用Heroku提供的PostgreSQL，但免费版只能存1万行数据
 
-持续交付： 使用CodeShip，自动将代码从github 搬运到Heroku, 实现持续交付。 但CodeShip免费版每月只能搬运100次， 因此只监控代码的production分支。
+持续交付： [CodeShip](https://codeship.com)自动持续地将代码从github部署到Heroku。 但免费版每月只能搬运100次， 因此只监控代码的production分支变化
+
+# 地址
+
+运行地址：[booklib.herokuapp.com](http://booklib.herokuapp.com)
+
+源码地址:[github](http://www.github.com/f5f6/booklib)
 
 # 开发团队
 
