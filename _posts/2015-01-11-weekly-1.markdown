@@ -8,6 +8,8 @@ tags: [weekly]
 
 Status: draft
 
+{:toc}
+
 # Java
 
 荐书： [《Java特种兵》](http://book.douban.com/subject/25959139/)， 文字对文学青年来说是毒药，但内容不错 -- Calvin
@@ -25,4 +27,9 @@ Status: draft
 
 # 技术雷达
 
-[Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/), 另有个PDF的版本我找找链接。 --Calvin
+[Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) Storm是流式处理大数据的框架，可用于物联网。 --Calvin
+
+[Node-Red](http://nodered.org/)
+
+IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具” (AC的竞争对手么?)
+它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API（应用编程接口）。它可以在Raspberry Pi上面运行，60000多个模板可用来扩展其功能。 -- Wenzheng Zhu

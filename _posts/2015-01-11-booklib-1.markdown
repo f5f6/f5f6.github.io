@@ -18,7 +18,9 @@ Status: draft
 
 Anjular.js(Single Page Application) + Spring Boot (Restful Service)
 
-新一代全栈工程师的标准架构， 俊雄会集中展示前端开发的各种最佳实践， 其余同事也会努力展示后台服务的最新趋势，可作日后培训的样板工程。
+新一代全栈工程师的标准架构， 可作日后培训的样板工程。
+
+其中展示了CGC前端第一人俊雄同志在前端开发的各种最佳实践， 同时也展示了后台服务的新趋势新潮流，特别是如何用最短的时间最少的代码，开发一个功能完备的业务系统，
 
 # 部署
 
@@ -29,3 +31,7 @@ PASS平台： 免费的Heroku， 地址：[booklib.herokuapp.com](http://booklib
 数据库： 开发时使用嵌入式的H2，而生产环境使用Heroku提供的Postgresql，但免费版有1万行的限制。
 
 持续交付： 使用CodeShip，自动将代码从github 搬运到Heroku, 实现持续交付。 CodeShip免费版每月只能搬运100次， 因此只监控production的Branch。
+
+# 开发团队
+
+Junxiong, Neway, Calvin
