@@ -20,7 +20,7 @@ Status: draft, [在线编辑](https://github.com/f5f6/f5f6.github.io/edit/master
 文字对文学青年来说是毒药，但内容不错，Java老手们都该读一下 -- Calvin
 
 
-# 其他语言
+# 各种语言
 
 * [(原创)Large Scale Python](http://aclisp.github.io/jekyll/update/2014/12/29/large-scale-python-1.html)  作者： Homer
 
@@ -51,7 +51,7 @@ Storm是流式处理大数据的框架，可用于物联网应用 -- Calvin
 
 IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 AC与它， 会是竞争与学习的关系么？-- Wenzheng Zhu
 
-# 其他
+# 编程之外
 
 * [(原创)我的2014技术流水帐](http://calvin1978.blogcn.com/articles/my2014.html)， 作者： Calvin
 * [一个技术从业人员眼中的2014](http://timyang.net/tao/thoughts-2014/) by Timyang(新浪微博技术总监)
