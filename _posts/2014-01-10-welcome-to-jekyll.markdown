@@ -2,8 +2,7 @@
 layout: post
 title:  "How to write in this blog"
 author: aleung
-date:   2015-01-10 00:47:48
-tags: [blogging]
+date:   2014-01-10 00:47:48
 ---
 
 - .
