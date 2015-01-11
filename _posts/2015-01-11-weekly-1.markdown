@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "技术周刊第一期"
+author: Calvin
+date:   2015-01-11 11:47:48
+tags: [weekly]
+---
+
+Status: draft
+
+# Java
+
+荐书： [《Java特种兵》](http://book.douban.com/subject/25959139/)， 文字对文学青年来说是毒药，但内容不错 -- Calvin
+
+荐书： [《写给大忙人看的Java SE 8》]  作者是Core Java的作者，专注于Java8的新特性 -- Calvin
+
+# Web前端
+
+[2014年WEB高手都在做什么](http://yafeilee.me/blogs/54995f3a6c69342f6d100000), GulpJS啦，Bower啦，Angular啦，我们的图书馆项目也有用哦。  --Calvin
+
+
+# DB
+
+# Cloud
+
+# 技术雷达
+
+[Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/), 另有个PDF的版本我找找链接。 --Calvin

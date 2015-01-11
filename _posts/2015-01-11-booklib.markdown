@@ -2,23 +2,23 @@
 layout: post
 title:  "P2P 虚拟图书馆项目"
 author: Calvin
-date:   2015-01-11 11:47:48
+date:   2015-01-11 10:47:48
 tags: [application]
 ---
 
-- .
-
 Status: draft
 
-## 缘起
+# 缘起
 
-[美团 P2P 图书馆实践：5天时间1845册图书共享入库](http://tech.meituan.com/mt-library-introduce.html)，我们也曾做过集中采购的图书馆，慢慢的就消失了，也许P2P才是正确的路。
+[美团 P2P 图书馆实践：5天时间1845册图书共享入库](http://tech.meituan.com/mt-library-introduce.html)
+
+我们也曾做过集中采购的图书馆，慢慢的就消失了，也许P2P才是正确的路。
 
 # 架构
 
 Anjular.js(Single Page Application) + Spring Boot (Restful Service)
 
-新一代全栈工程师的标准架构，可作日后培训的样板工程。
+新一代全栈工程师的标准架构， 俊雄会集中展示前端开发的各种最佳实践， 其余同事也会努力展示后台服务的最新趋势，可作日后培训的样板工程。
 
 # 部署
 
