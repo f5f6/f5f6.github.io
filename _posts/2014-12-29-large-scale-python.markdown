@@ -3,7 +3,7 @@ layout: post
 title:  "Large-scale Python"
 author: Homer
 date:   2014-12-29 11:47:48
-category: [Blog]
+category: [blog]
 ---
 
 这一年百分之七十的时间都在做 Python 相关的工作。Python 语言的轻便、灵巧，让码工时间充满快感，创意连连。而 Java 却是啰嗦，极其的啰嗦。玩了一段时间 Django1 之后，越发的喜爱上了这门语言。

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 日志分类整理
+title: 内容整理
 permalink: /all/
 ---
 

@@ -13,9 +13,9 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         
-        <article class="post-content">
+        <article class="post-list-content">
           {{ post.content }}
-          <div class="post-meta-right">{% if post.category %} Category: {{ post.category }}{% endif %}</div>
+          <div class="post-meta-right">{% if post.category %} Category: <a href="{{ BASE_PATH }}/categories/#{{post.category}}-ref">{{ post.category }}{% endif %}</a></div>
         </article>
       </li>
     {% endfor %}

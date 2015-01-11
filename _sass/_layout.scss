@@ -241,3 +241,37 @@
         }
     }
 }
+
+
+.post-list-content {
+
+    padding-bottom: 10px; 
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCC;
+
+    h2 {
+        font-size: 20px;
+
+        @include media-query($on-laptop) {
+            font-size: 18px;
+        }
+    }
+
+    h3 {
+        font-size: 18px;
+
+        @include media-query($on-laptop) {
+            font-size: 16px;
+        }
+    }
+
+    h4 {
+        font-size: 16px;
+
+        @include media-query($on-laptop) {
+            font-size: 14px;
+        }
+    }    
+
+}
