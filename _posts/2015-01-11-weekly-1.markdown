@@ -3,55 +3,52 @@ layout: post
 title:  "技术周刊第一期"
 author: Calvin
 date:   2015-01-11 11:47:48
-tags: [weekly]
+category: weekly
 ---
 
 Status: draft, [在线编辑](https://github.com/f5f6/f5f6.github.io/edit/master/_posts/2015-01-11-weekly-1.markdown)
 
-# 卷首语
+## 卷首语
 
 (总编还没想好)
 
 
-# Java
+## 语言
 
-* 荐书： [《Java特种兵》](http://book.douban.com/subject/25959139/)
+荐书：[《Java特种兵》](http://book.douban.com/subject/25959139/)
+: 文字对文学青年来说是毒药，但内容不错，Java老手们都该读一下 -- Calvin
 
-文字对文学青年来说是毒药，但内容不错，Java老手们都该读一下 -- Calvin
+[(原创)Large Scale Python](http://aclisp.github.io/jekyll/update/2014/12/29/large-scale-python-1.html)  作者：Homer
 
-
-# 各种语言
-
-* [(原创)Large Scale Python](http://aclisp.github.io/jekyll/update/2014/12/29/large-scale-python-1.html)  作者： Homer
-
-探讨 Python2 在 Large-scale 项目中的一些应用和实践，内容都是满满的原创经验。
+: 探讨 Python2 在 Large-scale 项目中的一些应用和实践，内容都是满满的原创经验。
 
 
-# Web前端
+## Web前端
 
-* [2014年WEB高手都在做什么](http://yafeilee.me/blogs/54995f3a6c69342f6d100000)
+[2014年WEB高手都在做什么](http://yafeilee.me/blogs/54995f3a6c69342f6d100000)
 
-GulpJS啦，Bower啦，Angular.js啦，我们的图书馆项目也有用哦  -- Calvin
-
-
-# DB
-
-* [豌豆荚的Redis Cluster 方案 - Codis](： http://0xffff.me/blog/2014/11/11/codis-de-she-ji-yu-shi-xian-1/)
-
-与官方Redis Cluster方案P2P的设计不同， Codis走Proxy-Based的路子，损失了性能但大大简化了设计 -- Calvin
+: GulpJS啦，Bower啦，Angular.js啦，我们的图书馆项目也有用哦  -- Calvin
 
 
-# 技术雷达
+## DB
 
-* [Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) 
+[豌豆荚的Redis Cluster 方案 - Codis](： http://0xffff.me/blog/2014/11/11/codis-de-she-ji-yu-shi-xian-1/)
 
-Storm是流式处理大数据的框架，可用于物联网应用 -- Calvin
+: 与官方Redis Cluster方案P2P的设计不同， Codis走Proxy-Based的路子，损失了性能但大大简化了设计 -- Calvin
 
-* [Node-Red](http://nodered.org/)
 
-IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 AC与它， 会是竞争与学习的关系么？-- Wenzheng Zhu
+## 技术雷达
 
-# 编程之外
+[Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) 
 
-* [(原创)我的2014技术流水帐](http://calvin1978.blogcn.com/articles/my2014.html)， 作者： Calvin
-* [一个技术从业人员眼中的2014](http://timyang.net/tao/thoughts-2014/) by Timyang(新浪微博技术总监)
+: Storm是流式处理大数据的框架，可用于物联网应用 -- Calvin
+
+[Node-Red](http://nodered.org/)
+
+: IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 AC与它， 会是竞争与学习的关系么？-- Wenzheng Zhu
+
+## 编程之外
+
+[(原创)我的2014技术流水帐](http://calvin1978.blogcn.com/articles/my2014.html)， 作者： Calvin
+
+[一个技术从业人员眼中的2014](http://timyang.net/tao/thoughts-2014/) by Timyang(新浪微博技术总监)
