@@ -3,7 +3,7 @@ layout: post
 title:  "P2P 虚拟图书馆项目"
 author: Calvin
 date:   2015-01-11 10:47:48
-tags: [project]
+category: [Project]
 ---
 
 Status: draft
