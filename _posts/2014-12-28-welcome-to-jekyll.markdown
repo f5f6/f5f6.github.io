@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "开张大吉, 恭喜发财"
-author: aleung, calvin
+author: Calvin
 date:   2014-12-28 00:47:48
 ---
 
