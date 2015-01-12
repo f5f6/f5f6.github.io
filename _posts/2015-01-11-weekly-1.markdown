@@ -19,7 +19,7 @@ category: weekly
 
 [Large Scale Python](http://aclisp.github.io/jekyll/update/2014/12/29/large-scale-python-1.html), 原创 by Homer
 
-: 探讨 Python2 在 Large-scale 项目中的一些应用和实践，内容都是满满的原创经验。
+: 探讨 Python2 在 Large-scale 项目中的一些应用和实践
 
 ## Web前端
 
@@ -33,6 +33,10 @@ category: weekly
 
 : 与官方Redis Cluster方案P2P的设计不同， Codis走Proxy-Based的路子，损失了性能但大大简化了设计 -- Calvin
 
+[《Redis设计与实现》](http://book.douban.com/subject/25900156/), 荐书
+
+: 从内而外地讲解Redis，得益于Redis精简的代码使这种表述方式成为可能 -- Calvin
+
 ## 技术雷达
 
 [Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) 
@@ -41,7 +45,7 @@ category: weekly
 
 [Node-RED](http://nodered.org/)
 
-: IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 -- Wenzheng Zhu
+: IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”，它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 -- Wenzheng Zhu
 
 ## 编程之外
 
