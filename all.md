@@ -4,14 +4,15 @@ title: Wiki Page
 permalink: /all.html
 ---
 
-- .
-{:toc}
 
 将所有日志归类整理，方便大家快速查阅， 分类比技术周刊里的更细， 按字母顺序排列。
 
+- .
+{:toc}
+
 ## f5f6 Project
 
-* [P2P 虚拟图书馆项目](http://f5f6.github.io/2015/01/11/booklib-1.html)
+* [P2P 虚拟图书馆项目](https://f5f6.github.io/2015/01/11/booklib-1/)
 
 ## Big Data
 
@@ -30,7 +31,7 @@ permalink: /all.html
 
 ## Redis
 
-* [豌豆荚的Redis Cluster 方案 - Codis](： http://0xffff.me/blog/2014/11/11/codis-de-she-ji-yu-shi-xian-1/) 与官方Redis Cluster方案走P2P的设计不同， Codis走Proxy-Based的路子，损失了性能但大大简化了设计 -- Calvin
+* [豌豆荚的Redis Cluster 方案 - Codis](http://0xffff.me/blog/2014/11/11/codis-de-she-ji-yu-shi-xian-1/) 与官方Redis Cluster方案走P2P的设计不同， Codis走Proxy-Based的路子，损失了性能但大大简化了设计 -- Calvin
 
 ## Scala
 
@@ -44,5 +45,5 @@ permalink: /all.html
 
 ## The Others
 
-* [Node-Red](http://nodered.org/)  IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 AC与它， 会是竞争与学习的关系么？-- Wenzheng Zhu
+* [Node-RED](http://nodered.org/)  IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API -- Wenzheng Zhu
 
