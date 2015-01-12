@@ -9,7 +9,7 @@ permalink: /all.html
 
 将所有日志归类整理，方便大家快速查阅， 分类比技术周刊里的更细， 按字母顺序排列。
 
-## 5f6f Project
+## f5f6 Project
 
 * [P2P 虚拟图书馆项目](http://f5f6.github.io/2015/01/11/booklib-1.html)
 
