@@ -2,7 +2,6 @@
 !.gitignore
 
 _site
-_bin
 
 *.lock
 Thumbs.db

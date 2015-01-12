@@ -8,6 +8,7 @@ url:                 http://f5f6.github.io
 # Build settings
 permalink:           /:year/:month/:day/:title/
 markdown:            kramdown
+highlighter:         null
 kramdown:
   auto_ids: true
   toc_levels: 1..3
