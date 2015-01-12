@@ -39,7 +39,7 @@ category: weekly
 
 : Storm是流式处理大数据的框架，可处理物联网传感器上传的海量数据 -- Calvin
 
-[Node-Red](http://nodered.org/)
+[Node-RED](http://nodered.org/)
 
 : IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 AC与它， 会是竞争与学习的关系么？-- Wenzheng Zhu
 
@@ -47,4 +47,4 @@ category: weekly
 
 [我的2014技术流水帐](http://calvin1978.blogcn.com/articles/my2014.html), 原创 by Calvin
 
-[一个技术从业人员眼中的2014](http://timyang.net/tao/thoughts-2014/) by TimYang(新浪微博技术总监)
+[一个技术从业人员眼中的2014](http://timyang.net/tao/thoughts-2014/), by TimYang(新浪微博技术总监)
