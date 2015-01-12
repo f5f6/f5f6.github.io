@@ -47,9 +47,8 @@ category: weekly
 
 #### 个人年度小结
 
-[我的2014技术流水帐](http://calvin1978.blogcn.com/articles/my2014.html), 原创 by Calvin
-
-[一个技术从业人员眼中的2014](http://timyang.net/tao/thoughts-2014/), by TimYang(新浪微博技术总监)
+- [我的2014技术流水帐](http://calvin1978.blogcn.com/articles/my2014.html), 原创 by Calvin
+- [一个技术从业人员眼中的2014](http://timyang.net/tao/thoughts-2014/), by TimYang(新浪微博技术总监)
 
 #### 如何用Github搭建个人的blog
 
