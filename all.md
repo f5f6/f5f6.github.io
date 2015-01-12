@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 内容整理
+title: Wiki Page
 permalink: /all/
 ---
 
