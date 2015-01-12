@@ -6,9 +6,27 @@ title: Help
 - *
 {:toc}
 
+# 编写指南
+
+这个blog使用 [Jekyll](http://jekyllrb.com/) 静态网站生成工具生成。原始文件在 [f5f6.github.io](https://github.com/f5f6/f5f6.github.io) 项目中。
+
+## 发表与修改
+
+要发表一篇新日志，在 `_posts` 目录里新建一个文件，遵循 `YYYY-MM-DD-name-of-post.md` 的命名规则，并参考其他日志，在正文最开始处放置正确的头信息。
+
+如要修改已有日志，编辑相应 markdown 文件即可。
+
+## 生成与预览
+
+网站生成在 GitHub 上进行，每次 git push 到 GitHub 会自动触发重新生成。但建议在本地安装 Jekyll，先在本地预览效果后再提交。
+
+Jekyll 安装与运行方法请参考 [GitHub Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) 的 Installing Jekyll 和 Running Jekyll 部分。为简化Windows平台下的使用，已经自带了一个 all-in-one 的 Jekyll 可执行程序，双击执行`_bin\preview.bat`即可。
+
+# Markdown语法
+
 这个blog使用的markdown解释器是[kramdown](http://kramdown.rubyforge.org/quickref.html)，比起标准markdown有所增强。再加上Jekyll的一些插件特供的特殊功能。
 
-# Markdown基本语法
+## 通用语法
 
 ### 标题
 
@@ -60,9 +78,9 @@ stay foolish.
     + 再缩进两个空格，三级项目
 - 其次
 
-# 增强功能
+## 增强功能
 
-## 解释列表
+### 解释列表
 
 ~~~~
 名词1
@@ -84,7 +102,7 @@ stay foolish.
 
   另一个段落继续解释。
 
-## 表格
+### 表格
 
 注意第二行的分割线的冒号位置，决定了这一列的对齐方式。
 
@@ -103,19 +121,15 @@ No.   | Name    | Status  |
 10000 | Release | n/a     | 
 
 
-## 脚注
+### 脚注
 
-增加脚注[^1]很
-
-
-
-简单，就是这样：`[^1]`
+增加脚注[^1]很简单，就是这样：`[^1]`
 
 脚注定义的写法是以`[^1]: `开头，后面跟着定义。
 
 [^1]: 脚注一定会显示在最末尾。
 
-## 目录
+### 目录
 
 在文章开头加上以下两行，生成目录。
 
@@ -124,16 +138,14 @@ No.   | Name    | Status  |
     {:toc}
 {% endraw %}
 
-# 嵌入代码
+### 嵌入代码
 
-下面的嵌入代码的方式都是由插件提供的，并非markdown语法。
+这个blog是由Github在线生成的，Github只支持使用pygments做语法彩色渲染，但pygments需要依赖python，本地环境配置依赖多，不是所有人都有完整的本地环境做预览，因此本blog关闭了语法高亮功能，请勿使用`highlight`标签，否则可能会造成别人本地预览失败。
 
-### 代码高亮
+如要嵌入代码片段并希望有好的显示效果，建议将代码片段保存在[gist](https://gist.github.com/)并使用`gist`标签：
 
 {% raw %}
-    {% highlight java %}
-    code snippet
-    {% endhighlight %}
+    {% gist parkr/c08ee0f2726fd0e3909d %}
 {% endraw %}
 
 - - - -
