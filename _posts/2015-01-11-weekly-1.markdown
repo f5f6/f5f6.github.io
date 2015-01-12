@@ -41,7 +41,7 @@ category: weekly
 
 [Node-RED](http://nodered.org/)
 
-: IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 AC与它， 会是竞争与学习的关系么？-- Wenzheng Zhu
+: IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 -- Wenzheng Zhu
 
 ## 编程之外
 
