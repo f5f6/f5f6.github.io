@@ -14,8 +14,8 @@ category: weekly
 
 ## 语言
 
-[《Java特种兵》](http://book.douban.com/subject/25959139/), 荐书
-: 文字对文学青年来说是毒药，但内容不错，Java老手们都该读一下 -- Calvin
+[《Java特种兵》](http://book.douban.com/subject/25959139/)
+: 荐书: 文字对文青来说是毒药，但内容不错，Java老手们都该读一下 -- Calvin
 
 [Large Scale Python](http://aclisp.github.io/jekyll/update/2014/12/29/large-scale-python-1.html), 原创 by Homer
 
@@ -29,13 +29,19 @@ category: weekly
 
 ## DB
 
+[《Redis设计与实现》](http://book.douban.com/subject/25900156/)
+
+: 荐书: 从内而外地讲解Redis，得益于Redis精简的代码使这种表述方式成为可能 -- Calvin
+
 [豌豆荚的Redis Cluster 方案 - Codis](http://0xffff.me/blog/2014/11/11/codis-de-she-ji-yu-shi-xian-1/)
 
 : 与官方Redis Cluster方案P2P的设计不同， Codis走Proxy-Based的路子，损失了性能但大大简化了设计 -- Calvin
 
-[《Redis设计与实现》](http://book.douban.com/subject/25900156/), 荐书
+## 架构设计
 
-: 从内而外地讲解Redis，得益于Redis精简的代码使这种表述方式成为可能 -- Calvin
+[Martin Fowler阐述“牺牲的架构”](http://www.infoq.com/cn/news/2014/11/sacrificial-architecture)
+
+: 抛弃，替换，模块化; 马丁花说了些大家敢做不敢说的话, [原文](http://martinfowler.com/bliki/SacrificialArchitecture.html) -- Calvin
 
 ## 技术雷达
 
