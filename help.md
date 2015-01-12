@@ -102,53 +102,6 @@ No.   | Name    | Status  |
 2     | Beta    | ongoing |
 10000 | Release | n/a     | 
 
-## 脚注
 
-增加脚注[^1]很简单，就是这样：`[^1]`
-
-脚注定义的写法是以`[^1]: `开头，后面跟着定义。
-
-[^1]: 脚注一定会显示在最末尾。
-
-## 目录
-
-在文章开头加上以下两行，生成目录。
-
-{% raw %}
-    - *
-    {:toc}
-{% endraw %}
-
-# 嵌入代码
-
-下面的嵌入代码的方式都是由插件提供的，并非markdown语法。
-
-### 代码高亮
-
-{% raw %}
-    {% highlight java %}
-    code snippet
-    {% endhighlight %}
-{% endraw %}
-
-效果：
-
-{% highlight java %}
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World");
-    }
-}
-{% endhighlight %}
-
-### 嵌入Gist
-
-{% raw %}
-    {% gist 2934603 %}
-{% endraw %}
-
-效果：
-
-{% gist 2934603 %}
 
 - - - -

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wiki Page
-permalink: /all/
+permalink: /all.html
 ---
 
 - .
@@ -42,7 +42,7 @@ permalink: /all/
 
 * [2014年WEB高手都在做什么](http://yafeilee.me/blogs/54995f3a6c69342f6d100000) GulpJS啦，Bower啦，Angular.js啦，我们的图书馆项目也有用哦  -- Calvin
 
-## Others
+## The Others
 
 * [Node-Red](http://nodered.org/)  IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”， 它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 AC与它， 会是竞争与学习的关系么？-- Wenzheng Zhu
 

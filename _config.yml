@@ -1,7 +1,7 @@
 # Site settings
 title:               Floor 5, Floor 6
 tagline:             在五楼与六楼之间爬上爬下的程序猿
-description:         'f5f6是什么？……'
+description:         '五楼，六楼……'
 baseurl:             /                          # the subpath of your site, e.g. /blog/
 url:                 http://f5f6.github.io
 
