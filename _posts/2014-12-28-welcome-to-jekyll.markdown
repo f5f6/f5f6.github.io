@@ -5,27 +5,9 @@ author: Calvin
 date:   2014-12-28 00:47:48
 ---
 
-写在最开始的话。
+写在最开始的话
 
-## 1. 基本操作
-
-### 发表新日志
-
-在 `_posts` 目录里新建一个文件， 遵循`YYYY-MM-DD-name-of-post.markdown`的命名规则， 并参考其他日志， 在正文最开始处放置正确的头信息。
-
-然后用Git将文件提交。
-
-### 修改日志
-
-可以修改本地文件后用Git提交。
-
-也可以在[github的页面](https://github.com/f5f6/f5f6.github.io/tree/master/_posts)， 点击文件右上角那个`修改`按钮直接编辑。
-
-### 评论日志
-
-系统已与[多说](http://duoshuo.com/) 集成， 使用微博等账号， 可在每篇日志后进行评论。
-
-## 2. 内容与流程
+## 内容与流程
 
 ### 技术周刊
 
@@ -45,4 +27,10 @@ Every Body可以将自己原创的日志、EverNote笔记分享给大家，形�
 
 ### 分类整理版Wiki
 
-编辑们会将以上内容， 归类整理为[Wiki](all.html)，方便速查。
+编辑们会将以上内容， 细化归类整理为[Site Index Content](all.html)，方便速查。
+
+## 操作指南
+
+请查阅[Help](help.html)页面。
+
+
