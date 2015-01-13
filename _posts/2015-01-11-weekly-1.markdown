@@ -81,4 +81,4 @@ category: weekly
 
 - [Octopress经验](http://duffqiu.github.io/blog/categories/octopress/): By Duff Qiu
 - [Jekyll](): By Leo Liang
-- [hexo](): By Ao Xiaojian
+- [hexo](http://skyao.github.io/2014/11/24/hexo-upgrade/): By Sky Ao
