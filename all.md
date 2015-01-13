@@ -34,7 +34,8 @@ permalink: /all.html
 * [豌豆荚的Redis Cluster 方案 - Codis](http://0xffff.me/blog/2014/11/11/codis-de-she-ji-yu-shi-xian-1/) 与官方Redis Cluster方案走P2P的设计不同， Codis走Proxy-Based的路子，损失了性能但大大简化了设计 -- Calvin
 
 ## Scala
-
+ * Scala 技术栈 （https://github.com/lauris/awesome-scala） 
+ * InfoQ 对Scala 技术栈的归类总结 （http://www.infoq.com/cn/articles/scala-technology）  --David
 ### 原创
 
 了哥聊Scala？
