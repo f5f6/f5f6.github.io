@@ -36,6 +36,7 @@ permalink: /all.html
 ## Scala
  * Scala 技术栈 （https://github.com/lauris/awesome-scala） 
  * InfoQ 对Scala 技术栈的归类总结 （http://www.infoq.com/cn/articles/scala-technology）  --David
+ 
 ### 原创
 
 了哥聊Scala？
