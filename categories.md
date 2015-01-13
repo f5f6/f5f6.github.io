@@ -5,12 +5,12 @@ permalink: /categories/
 ---
 
 {% for category in site.categories %} 
-  <h2 id='{{ category[0] }}-ref'>{{ category[0] }}</h2>
+  <h1 id='{{ category[0] }}-ref'>{{ category[0] }}</h1>
   <ul>
   {% assign pages_list = category[1] %}  
  	{% for node in pages_list %}
     {% if node.title != null %}
-      	<li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+      	<li class="related-posts"><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
     {% endif %}
   {% endfor %}
   </ul>

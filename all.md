@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index Content
+title: Content Index
 permalink: /all.html
 ---
 

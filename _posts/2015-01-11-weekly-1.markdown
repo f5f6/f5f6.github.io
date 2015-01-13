@@ -47,12 +47,12 @@ category: weekly
 ## 架构设计
 
 [Martin Fowler阐述“牺牲的架构”](http://www.infoq.com/cn/news/2014/11/sacrificial-architecture)
-提供
+
 : 抛弃, 替换, 模块化; 马丁花说了些大家敢做不敢说的话, [原文](http://martinfowler.com/bliki/SacrificialArchitecture.html) -- Calvin
 
 [扩展性即服务](http://www.infoq.com/cn/news/2014/12/extended-service)
 
-: 越来越多的基础组件，在拍胸脯保证运维与扩展性后，在云里以服务的形式提供。也越来越多项目不再愿意自己花精力去运维这些组件，哪怕有现成开源的， 而宁愿选择服务。 除了文中的例子，还有提供Metrics服务的[Librato](https://www.librato.com)， Log管理的[loggly](https://www.loggly.com/) -- Calvin
+: 越来越多的基础组件, 在云里以服务的形式提供, 拍胸脯保证运维与扩展性。也越来越多项目不再愿意自己花精力去运维一堆组件，哪怕是现成开源的， 而宁愿选择这些服务。 除了文中的例子，还有提供Metrics服务的[Librato](https://www.librato.com)， Log管理的[loggly](https://www.loggly.com/) -- Calvin
 
 
 ## 技术雷达
@@ -68,6 +68,7 @@ category: weekly
 
 ## 编程之外
 
+
 ### 个人年度小结
 
 - [我的2014技术流水帐](http://calvin1978.blogcn.com/articles/my2014.html), 原创 by Calvin
@@ -82,3 +83,7 @@ category: weekly
 - [Octopress经验](http://duffqiu.github.io/blog/categories/octopress/): By Duff Qiu
 - [Jekyll](): By Leo Liang
 - [hexo](http://skyao.github.io/2014/11/24/hexo-upgrade/): By Sky Ao
+
+### 其他
+
+- [知乎日报：什么是工程师文化？](http://daily.zhihu.com/story/4442333) -- Calvin
