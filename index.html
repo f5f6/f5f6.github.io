@@ -13,7 +13,7 @@ title: Home
     </h1>
 
     <span class="post-date">
-      {{ post.date | date_to_string }} | {{ post.author }}
+      {{ post.date | date_to_string }} | <a href="{{ site.baseurl }}members.html#{{ post.author }}-ref">{{ post.author }}</a>
       {% if post.category %}
       <span class="post-meta-right">Category: <a href="{{ site.baseurl }}categories/#{{ post.category }}-ref">{{ post.category }}</a></span>
       {% endif %}
