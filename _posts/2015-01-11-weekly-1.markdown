@@ -22,6 +22,7 @@ category: weekly
 : 探讨 Python2 在 Large-scale 项目中的一些应用和实践
 
 [Scala 技术栈](https://github.com/lauris/awesome-scala) -- David
+
 [InfoQ 对Scala 技术栈的归类总结](http://www.infoq.com/cn/articles/scala-technology) -- David
 
 [了哥聊Scala](/2015/01/04/liaogeliaoscala/) 
