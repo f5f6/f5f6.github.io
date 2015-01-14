@@ -20,7 +20,7 @@ permalink: /all.html
 
 : Storm是流式处理大数据的框架，可处理物联网传感器上传的海量数据 -- Calvin
 
-## IOT (物联网)
+## IoT (物联网)
 
 [Node-RED](http://nodered.org/)
 
