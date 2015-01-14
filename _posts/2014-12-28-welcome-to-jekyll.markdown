@@ -27,10 +27,10 @@ Every Body可以将自己原创的日志、EverNote笔记分享给大家，形�
 
 ### 分类整理版Wiki
 
-编辑们会将以上内容， 细化归类整理为[Content Index](https://f5f6.github.io/all.html)，方便速查。
+编辑们会将以上内容， 细化归类整理为[Content Index](/all.html)，方便速查。
 
 ## 操作指南
 
-请查阅[Help](https://f5f6.github.io/help.html)页面。
+请查阅[Help](/help.html)页面。
 
 
