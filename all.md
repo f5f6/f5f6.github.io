@@ -12,7 +12,7 @@ permalink: /all.html
 
 ## f5f6 Project
 
-* [P2P 虚拟图书馆项目](https://f5f6.github.io/2015/01/11/booklib-1/)
+* [P2P 虚拟图书馆项目](/2015/01/11/booklib-1/)
 
 ## Big Data
 
