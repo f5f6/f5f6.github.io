@@ -23,7 +23,7 @@ category: project
 
 ## 部署
 
-PASS平台： [Heroku](https://www.heroku.com)， 免费的512M JVM
+PAAS平台： [Heroku](https://www.heroku.com)， 免费的512M JVM
 
 应用服务器： SpringBoot内置Tomcat， 只需java -jar target/bootlib.war 启动
 
@@ -33,9 +33,9 @@ PASS平台： [Heroku](https://www.heroku.com)， 免费的512M JVM
 
 ## 地址
 
-应用地址：[booklib.herokuapp.com](http://cgcbooklib.herokuapp.com)
+应用地址：[cgcbooklib.herokuapp.com](http://cgcbooklib.herokuapp.com)
 
-源码地址:[github](http://www.github.com/f5f6/booklib)
+源码地址：[github](http://www.github.com/f5f6/booklib)
 
 ## 开发团队
 
