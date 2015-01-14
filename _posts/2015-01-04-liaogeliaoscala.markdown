@@ -18,3 +18,5 @@ category: blog
 ###Scala开发Android应用
 ...
 
+###杂项
+- [如何搭建Maven的Scala工程](http://duffqiu.github.io/blog/2014/04/06/chuang-jian-ji-yu-mavende-javahe-scalagong-cheng/)
