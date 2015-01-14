@@ -57,7 +57,7 @@ permalink: /all.html
  
 ### 原创
 
-了哥聊Scala？
+[了哥聊Scala](/2015/01/04/liaogeliaoscala/) -- Duff
 
 ## Web前端
 

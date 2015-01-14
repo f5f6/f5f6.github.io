@@ -10,7 +10,11 @@ category: blog
 - [Scala入门开篇](http://duffqiu.github.io/blog/2015/01/13/howtostartprogrammingwithscala/)
 
 ###Akka并发编程
+...
 
 ###Spray开发
+...
 
 ###Scala开发Android应用
+...
+
