@@ -28,9 +28,9 @@ category: weekly
 
 ## Web前端
 
-[A cup of coffee](http://coffeescript.org/) -- Junxiong
+[A cup of coffee](http://coffeescript.org/)
 
-: Coffee script的主要目的是增强javascript的表现力，上手的最好资料和练习场就是它的网站。进一步学习Coffee Script，可以参考下面这本免费书[Smooth Coffee Script](http://autotelicum.github.io/Smooth-CoffeeScript)
+: Coffee script的主要目的是增强javascript的表现力，上手的最好资料和练习场就是它的网站。进一步学习Coffee Script，可以参考下面这本免费书[Smooth Coffee Script](http://autotelicum.github.io/Smooth-CoffeeScript)。 -- Junxiong
 
 [2014年WEB高手都在做什么](http://yafeilee.me/blogs/54995f3a6c69342f6d100000)
 
