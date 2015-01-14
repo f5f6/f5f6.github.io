@@ -6,13 +6,13 @@ date:   2015-01-11 10:47:48
 category: project
 ---
 
-## 缘起
+# 缘起
 
 [美团 P2P 图书馆实践： 5天时间1845册图书共享入库](http://tech.meituan.com/mt-library-introduce.html)
 
 我们也曾做过集中采购集中管理的图书馆，慢慢的就消失了，也许P2P才是正确的路
 
-## 架构
+# 架构
 
 [Anjular.js](https://angularjs.org/)(Front End) + [Spring Boot](http://projects.spring.io/spring-boot/)(Restful Service) + 豆瓣API
 
@@ -21,7 +21,7 @@ category: project
 其中展示了CGC前端第一人俊雄同志在前端开发的各种最佳实践， 同时也将展示后台服务的新潮流新趋势，特别是如何用最短的时间最少的代码，开发一个功能完备的业务系统
 
 
-## 部署
+# 部署
 
 PaaS平台： [Heroku](https://www.heroku.com)， 免费的512M JVM
 
@@ -31,12 +31,12 @@ PaaS平台： [Heroku](https://www.heroku.com)， 免费的512M JVM
 
 持续交付： [CodeShip](https://codeship.com)自动将代码持续地从github部署到Heroku。 但免费版每月只能搬运100次， 因此只监控代码的production分支变化
 
-## 地址
+# 地址
 
 应用地址：[cgcbooklib.herokuapp.com](http://cgcbooklib.herokuapp.com)
 
 源码地址：[github](http://www.github.com/f5f6/booklib)
 
-## 开发团队
+# 开发团队
 
 [Junxiong](/members.html#Jun Xiong-ref), [Neway](/members.html#Neway-ref), [Calvin](/members.html#Calvin-ref)

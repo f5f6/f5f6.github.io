@@ -34,9 +34,13 @@ Jekyll 安装与运行方法请参考 [GitHub Using Jekyll with Pages](https://h
 
 ### 链接
 
-格式：
+文字链接：
 
     [text](link)
+
+直接显示链接：
+
+    <link>
 
 ### 图片
 
@@ -44,7 +48,7 @@ Jekyll 安装与运行方法请参考 [GitHub Using Jekyll with Pages](https://h
 
     ![text](link)
 
-另一种图片语法是由插件支持的，用`{` `%`包围的img标签，后面跟着图片URL，在URL前可以加入可选的css class名称，如：`left`, `right`，得到文字环绕效果。
+
 
 ### 引用 (blockquote)
 
@@ -77,6 +81,10 @@ stay foolish.
   + 缩进两个空格，加号开头
     + 再缩进两个空格，三级项目
 - 其次
+
+### 分割线
+
+    ---
 
 ## 增强功能
 
@@ -147,5 +155,12 @@ No.   | Name    | Status  |
 {% raw %}
     {% gist parkr/c08ee0f2726fd0e3909d %}
 {% endraw %}
+
+
+### 设置内容的Html属性
+
+在一种元素类型如普通文字，链接后面，用`{:attributeKey=attributeValue}` 定义
+
+    A [link](test.html){:style='color:red'}
 
 - - - -
