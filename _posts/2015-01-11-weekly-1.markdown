@@ -25,6 +25,8 @@ category: weekly
  
 [InfoQ 对Scala 技术栈的归类总结](http://www.infoq.com/cn/articles/scala-technology) -- David
 
+[A cup of coffee] (http://coffeescript.org/) --Junxiong
+: Coffee script的主要目的是增强javascript的表现力，上手的最好资料和练习场就是它的网站。进一步学习Coffee Script，可以参考下面这本免费书[Smooth Coffee Script]http://autotelicum.github.io/Smooth-CoffeeScript
 
 ## Web前端
 
