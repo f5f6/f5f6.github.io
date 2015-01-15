@@ -22,6 +22,10 @@ title: Help
 
 Jekyll 安装与运行方法请参考 [GitHub Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) 的 Installing Jekyll 和 Running Jekyll 部分。为简化Windows平台下的使用，已经自带了一个 all-in-one 的 Jekyll 可执行程序，双击执行`_bin\preview.bat`即可。
 
+## 草稿
+
+为了避免没有写完的草稿发布出去，新日志应该先放在 `_drafts` 目录中，待完成后才移动到 `_posts` 目录。Draft 中的文件不会在 GitHub 上生成内容，仅当在本地预览时用 `jekyll serve --drafts` 命令才能看到。如果是 Windows 用户，使用 `_bin\preview.bat` 即可。
+
 # Markdown语法
 
 这个blog使用的markdown解释器是[kramdown](http://kramdown.rubyforge.org/quickref.html)，比起标准markdown有所增强。再加上Jekyll的一些插件特供的特殊功能。

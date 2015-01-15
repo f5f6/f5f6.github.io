@@ -1,2 +1,2 @@
 cd ..
-_bin\jekyll serve
+_bin\jekyll serve --drafts
