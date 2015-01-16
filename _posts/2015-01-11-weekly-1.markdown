@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "五楼六楼技术周刊2015第一期"
-author: Calvin
+author: All Contributors
 date:   2015-01-16 11:47:48
 category: weekly
 ---
