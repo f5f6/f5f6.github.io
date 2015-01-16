@@ -59,7 +59,7 @@ category: weekly
 [Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) 
 : Storm是流式处理大数据的框架, 可处理物联网传感器上传的海量数据 -- Calvin
 
-[Getting start with Storm英文原版](http://it-ebooks.info/book/888/) -- Duff
+[Getting start with Storm英文原版](http://it-ebooks.info/book/888/)
 
 [Node-RED](http://nodered.org/)
 : IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”, 它让开发人员可以使用一种基于浏览器的流程编辑器, 连接诸多设备、服务和API -- Wenzheng Zhu
