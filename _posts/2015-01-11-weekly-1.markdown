@@ -20,7 +20,7 @@ category: weekly
 [Large Scale Python](http://aclisp.github.io/jekyll/update/2014/12/29/large-scale-python-1.html) by Homer
 : 探讨 Python2 在 Large Scale 项目中的一些应用和实践
 
-[<<了哥聊Scala>>](2015/01/04/liaogeliaoscala/)之[如何开始Scala编程](http://duffqiu.github.io/blog/2015/01/13/howtostartprogrammingwithscala/) by Duff
+<<了哥聊Scala>>之[如何开始Scala编程](http://duffqiu.github.io/blog/2015/01/13/howtostartprogrammingwithscala/) by Duff
 : 和大家一起来学习Scala
 
 [Scala 技术栈](https://github.com/lauris/awesome-scala) -- David
