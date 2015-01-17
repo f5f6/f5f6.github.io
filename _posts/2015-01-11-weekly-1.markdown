@@ -18,10 +18,10 @@ category: weekly
 : 荐书: Java老手们都该读一下，虽然文字对文青来说是毒药 -- Calvin
 
 [Large Scale Python](http://aclisp.github.io/jekyll/update/2014/12/29/large-scale-python-1.html)
-: 探讨 Python 在 Large Scale 项目中的一些应用和实践 -- Homer
+: 探讨 Python 在 Large Scale 项目中的一些应用和实践 by Homer
 
 《了哥聊Scala》之[如何开始Scala编程](http://duffqiu.github.io/blog/2015/01/13/howtostartprogrammingwithscala/)
-: 和大家一起来学习Scala -- Duff
+: 和大家一起来学习Scala by Duff
 
 [Scala 技术栈](https://github.com/lauris/awesome-scala) -- David
 
@@ -67,7 +67,7 @@ category: weekly
 
 # 编程之外
 
-- [我的2014技术流水帐](http://calvin1978.blogcn.com/articles/my2014.html) -- Calvin
+- [我的2014技术流水帐](http://calvin1978.blogcn.com/articles/my2014.html) by Calvin
 - [TimYang眼中的2014](http://timyang.net/tao/thoughts-2014/) -- Calvin
-- [如何用Github搭建个人的blog]({% post_url 2015-01-03-personal-blog %})  -- Duff, Sky Ao
+- [如何用Github搭建个人的blog]({% post_url 2015-01-03-personal-blog %}) by Duff, Sky Ao
 - [知乎日报：什么是工程师文化？](http://daily.zhihu.com/story/4442333)
