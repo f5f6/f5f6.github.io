@@ -26,9 +26,7 @@ category: weekly
 『了哥聊Scala』之[如何开始Scala编程](http://duffqiu.github.io/blog/2015/01/13/howtostartprogrammingwithscala/) 
 : 和大家一起来学习Scala -- written by Duff
 
-[Scala 技术栈](https://github.com/lauris/awesome-scala) -- David
-
-[InfoQ 对Scala 技术栈的归类总结](http://www.infoq.com/cn/articles/scala-technology) -- David
+[Scala 技术栈](https://github.com/lauris/awesome-scala) 与 [InfoQ对Scala 技术栈的归类总结](http://www.infoq.com/cn/articles/scala-technology) -- David
 
 
 # Web前端
@@ -66,14 +64,10 @@ category: weekly
 : 很高兴现在大家都自称Http API 而不是 Restful API了， 这份指南集合了学院派与实战派中好的那一部分 -- Calvin
 
 [Apache Kafka：下一代分布式消息系统](http://www.infoq.com/cn/articles/apache-kafka)
-: 一个特立独行的MQ系统，名字就是卡夫卡， 变成甲壳虫的卡夫卡， 海量扩展性是它对ActiveMQ， RabbitMQ们骄傲的地方 -- Calvin
+: 一个特立独行的MQ系统，名字就是卡夫卡， 变成甲壳虫的卡夫卡， 扩展性是它对ActiveMQ， RabbitMQ们骄傲的地方 -- Calvin
 
 [淘宝RocketMQ与Apache Kafka对比](https://github.com/alibaba/RocketMQ/wiki/rmq_vs_kafka)
 : 淘宝将scala写的Kafka， 用java又写了一遍。我们看的是人家的骄傲。 -- Calvin
-
-[Zato ESB](https://zato.io/docs/2.0/)
-: ESB(Enterprise Service Bus)本是JavaEE的传统领域。 Zato这个Python的家伙突然进场，还说自己是Written by pragmatists for pragmatists。但感觉因为足够晚进场, 它的功能集，的确是我心目中ESB该有的功能集， 不同于已没听什么人用的ServiceMix，也不同于类库级别的Apache Camel： [中文教程](http://www.infoq.com/cn/articles/zato)，[官方教程](https://zato.io/docs/2.0/tutorial/01.html)， [New in 2.0](https://zato.io/docs/2.0/project/changelog.html) -- Calvin
-
 
 [业务系统需要什么样的ID生成器](http://ericliang.info/what-kind-of-id-generator-we-need-in-business-systems/)
 : 我们大部分时候就直接用JDK自带那个唯时间的UUID了，看看人家又是怎么想的 -- Calvin
