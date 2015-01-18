@@ -71,3 +71,11 @@ permalink: /all.html
 
 : 抛弃，替换，模块化; 马丁花说了些大家敢做不敢说的话, [原文](http://martinfowler.com/bliki/SacrificialArchitecture.html) -- Calvin
 
+## 网站资源
+
+- [InfoQ 中文版](http://www.infoq.com/cn/),  [英文版](http://www.infoq.com/)
+- [开发者头条](http://toutiao.io/)
+- [码农周刊](http://weekly.manong.io/), [分类索引版](https://github.com/nemoTyrant/manong)
+- [Dzone Java](http://java.dzone.com/), [Dzone Architects](http://architects.dzone.com/)
+- [highscalability.com/](http://www.highscalability.com/)
+
