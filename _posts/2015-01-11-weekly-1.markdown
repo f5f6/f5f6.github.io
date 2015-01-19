@@ -12,7 +12,7 @@ category: weekly
 
 五楼六楼周刊终于发布了！首期二十多篇， 内容涉及语言、Web前端、数据库、架构设计等等，都是编辑们努力原创，或精心挑选的文章。
 
-我们热爱技术， 我们辛勤工作， 我们是在五楼与六楼之间爬上爬下的程序猿。 我们注重程序猿的自我修养， 更鼓励知识在群体里的分享流动。 愿这本周刊成为猿们的磨刀石，茶余饭后时常拿起，从中有所得就更好了。 
+我们热爱技术，我们辛勤工作，我们是在五楼与六楼之间爬上爬下的程序猿。 我们注重程序猿的自我修养， 更鼓励知识在群体里的分享流动。 愿这本周刊成为猿们的磨刀石，茶余饭后时常拿起，从中有所得就更好了。 
 
 # 语言
 
@@ -28,8 +28,7 @@ category: weekly
 : 探讨 Python 在 Large Scale 项目中的一些应用和实践 -- written by Homer
 
 [函数式编程的思考](http://aclisp.github.io/blog/2015/01/14/fp-thinking.html)
-: 一种反对在团队开发中采用函数式编程的观点 -- written by Homer \\
-支持言论自由 -- Calvin
+: 一种反对在团队开发中采用函数式编程的观点 -- written by Homer
 
 『了哥聊Scala』之[如何开始Scala编程](http://duffqiu.github.io/blog/2015/01/13/howtostartprogrammingwithscala/) 
 : 和大家一起来学习Scala -- written by Duff
