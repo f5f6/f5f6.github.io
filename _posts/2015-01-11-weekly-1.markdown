@@ -66,7 +66,7 @@ category: weekly
 [Apache Kafka：下一代分布式消息系统](http://www.infoq.com/cn/articles/apache-kafka)
 : 一个特立独行的MQ系统，名字就是卡夫卡， 变成甲壳虫的卡夫卡， 扩展性是它对ActiveMQ， RabbitMQ们骄傲的地方 -- Calvin
 
-: 对阿里的这个MQ的评论：其用Java对Kafka重新根据自己的需求做了再次实现，而对扩展功能并不开源其实是某种意义的剽窃 -- Duff
+对阿里的这个MQ的评论：其用Java对Kafka重新根据自己的需求做了再次实现，而对扩展功能并不开源其实是某种意义的剽窃 -- Duff
 
 [淘宝RocketMQ与Apache Kafka对比](https://github.com/alibaba/RocketMQ/wiki/rmq_vs_kafka)
 : 淘宝将scala写的Kafka， 用java又写了一遍。我们看的是人家的骄傲。 -- Calvin
