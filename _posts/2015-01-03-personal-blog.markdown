@@ -12,5 +12,5 @@ category: blog
 以下是这几种工具的攻略, 大家可以根据自己的偏好做选择
 
 - [Octopress经验](http://duffqiu.github.io/blog/categories/octopress/): By Duff Qiu
-- [Jekyll](): By Leo Liang
 - [hexo](http://skyao.github.io/2014/11/24/hexo-upgrade/): By Sky Ao
+- [Jekyll](): By Leo Liang (TODO)

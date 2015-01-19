@@ -2,7 +2,7 @@
 layout: post
 title:  "五楼六楼周刊 2015 第一期"
 author: All Contributors
-date:   2015-01-16 11:47:48
+date:   2015-01-19 20:47:48
 category: weekly
 ---
 
@@ -10,7 +10,9 @@ category: weekly
 
 # 卷首语
 
-我们的五楼六楼周刊终于发布了！首期二十多篇，内容涉及语言、Web前端、数据库、架构设计等等，都是编辑们努力原创，或精心挑选的时事文章。我们程序员是热爱技术的一群人，在做项目的同时，也会积累自己的学识。五楼六楼周刊就是这样一群人创建的。我们鼓励原创，注重知识的交流与分享，为改变世界的理想锐意进取。“十年磨一剑，霜刃未曾试。”愿这本周刊成为猿们的磨刀石，茶余饭后时常拿起，从中有所得就更好了。
+五楼六楼周刊终于发布了！首期二十多篇， 内容涉及语言、Web前端、数据库、架构设计等等，都是编辑们努力原创，或精心挑选的文章。
+
+我们热爱技术， 我们辛勤工作， 我们是在五楼与六楼之间爬上爬下的程序猿。 我们注重程序猿的自我修养， 更鼓励知识在群体里的分享流动。 愿这本周刊成为猿们的磨刀石，茶余饭后时常拿起，从中有所得就更好了。 
 
 # 语言
 
@@ -18,18 +20,23 @@ category: weekly
 : 荐书: Java老手们都该读一下确认自己真的是老手了，虽然它的文字对文青来说是毒药 - Calvin
 
 [《写给大忙人看的Java SE 8》](http://book.douban.com/subject/26274206/)
-: 荐书: Java8的改进太大, 值得《Core Java》的作者再码一本 -- Calvin
-
-英文原版[Java SE 8 for the Really Impatient](http://it-ebooks.info/book/3677/)
-: 是继续在JAVA 8上前行还是换到Scala呢？ -- Duff
+: 荐书: Java8的改进太大, 值得《Core Java》的作者再码一本 -- Calvin\\
+  原版： [《Java SE 8 for the Really Impatient》](http://it-ebooks.info/book/3677/)\\
+  是继续在JAVA 8上前行还是换到Scala呢？ -- Duff
 
 [Large Scale Python](http://aclisp.github.io/jekyll/update/2014/12/29/large-scale-python-1.html)
 : 探讨 Python 在 Large Scale 项目中的一些应用和实践 -- written by Homer
 
+[函数式编程的思考](http://aclisp.github.io/blog/2015/01/14/fp-thinking.html)
+: 一种反对在团队开发中采用函数式编程的观点 -- written by Homer \\
+支持言论自由 -- Calvin
+
 『了哥聊Scala』之[如何开始Scala编程](http://duffqiu.github.io/blog/2015/01/13/howtostartprogrammingwithscala/) 
 : 和大家一起来学习Scala -- written by Duff
 
-[Scala 技术栈](https://github.com/lauris/awesome-scala) 与 [InfoQ对Scala 技术栈的归类总结](http://www.infoq.com/cn/articles/scala-technology) -- David
+[Scala 技术栈](https://github.com/lauris/awesome-scala)
+: [InfoQ对Scala 技术栈的归类总结](http://www.infoq.com/cn/articles/scala-technology) -- David
+
 
 
 # Web前端
@@ -66,19 +73,14 @@ category: weekly
 [HeroKu's HTTP API Design Guide](https://github.com/interagent/http-api-design)
 : 很高兴现在大家都自称Http API 而不是 Restful API了， 这份指南集合了学院派与实战派中好的那一部分 -- Calvin
 
-[Apache Kafka：下一代分布式消息系统](http://www.infoq.com/cn/articles/apache-kafka)
-: 一个特立独行的MQ系统，名字就是卡夫卡， 变成甲壳虫的卡夫卡， 扩展性是它对ActiveMQ， RabbitMQ们骄傲的地方 -- Calvin
-
-对阿里的这个MQ的评论：其用Java对Kafka重新根据自己的需求做了再次实现，而对扩展功能并不开源其实是某种意义的剽窃 -- Duff
-
-[淘宝RocketMQ与Apache Kafka对比](https://github.com/alibaba/RocketMQ/wiki/rmq_vs_kafka)
-: 淘宝将scala写的Kafka， 用java又写了一遍。我们看的是人家的骄傲。 -- Calvin
+[亿级用户下的新浪微博平台架构](http://mp.weixin.qq.com/s?__biz=MzA4ODAyOTI4Ng==&mid=201317014&idx=1&sn=51d985f13d2d22f7c49654ef7cda0167)
+: 哇，新年第一分钟发送微博808298条......等等，也就1.3万TPS嘛 -- Calvin
 
 [业务系统需要什么样的ID生成器](http://ericliang.info/what-kind-of-id-generator-we-need-in-business-systems/)
 : 我们大部分时候就直接用JDK自带那个唯时间的UUID了，看看人家又是怎么想的 -- Calvin
 
 
-# 物联网
+# 物联网与大数据
 
 [Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) 
 : Storm是流式处理大数据的框架, 可处理物联网传感器上传的海量数据, [英文原版](http://it-ebooks.info/book/888/) -- Calvin
@@ -90,7 +92,7 @@ category: weekly
 # 工具与资源
 
 [www.gitignore.io](https://www.gitignore.io)
-: 在线输入关键字如Maven、Eclpse、Intellij，就能生成一个专业的.gitignore文件 -- Calvin
+: 在线输入关键字如Maven、Eclpse、Intellij， 就能生成一个专业的.gitignore文件 -- Calvin
 
 # 编程之外
 
