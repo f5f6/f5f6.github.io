@@ -29,7 +29,7 @@ PaaS平台： [Heroku](https://www.heroku.com)， 免费的512M JVM
 
 数据库： 开发时用嵌入式的H2， 生产环境用Heroku提供的PostgreSQL，但免费版只能存1万行数据
 
-持续交付： [CodeShip](https://codeship.com)自动将代码持续地从github部署到Heroku。 但免费版每月只能搬运100次， 因此只监控代码的production分支变化
+持续交付： [CodeShip](https://codeship.com)自动将代码持续地从github部署到Heroku。 但免费版每月只能搬运100次， 每天不要提交太多了。
 
 # 地址
 
