@@ -17,10 +17,10 @@ category: weekly
 # 语言
 
 [《Java特种兵》](http://book.douban.com/subject/25959139/)
-: 荐书: Java老手们都该读一下确认自己真的是老手了，虽然它的文字对文青来说是毒药 - Calvin
+: 荐书： Java老手们都该读一下确认自己真的是老手了，虽然它的文字对文青来说是毒药 - Calvin
 
 [《写给大忙人看的Java SE 8》](http://book.douban.com/subject/26274206/)
-: 荐书: Java8的改进太大, 值得《Core Java》的作者再码一本 -- Calvin\\
+: 荐书： Java8的改进太大, 值得《Core Java》的作者再码一本 -- Calvin\\
   原版： [《Java SE 8 for the Really Impatient》](http://it-ebooks.info/book/3677/)\\
   是继续在JAVA 8上前行还是换到Scala呢？ -- Duff
 
@@ -52,7 +52,7 @@ category: weekly
 : 荐书： 即使家里没有PB级别的大数据要处理, 只看前半部, 也对NoSQL和分布式系统的种种概念如CAP,最终一致性,RWN,向量时钟,Paxos,一致性哈希,Gossip,列存储什么的有一个清晰的梳理 -- Calvin
 
 [《Redis设计与实现》](http://book.douban.com/subject/25900156/)
-: 荐书: 从内而外地讲解Redis, 得益于Redis精简的代码使这种表述方式成为可能 -- Calvin
+: 荐书： 从内而外地讲解Redis, 得益于Redis精简的代码使这种表述方式成为可能 -- Calvin
 
 [Running Redis in production](http://shokunin.co/blog/2014/11/11/operational_redis.html)
 : Redis在生产环境中的优化与监控 -- Calvin
