@@ -33,7 +33,7 @@ PaaS平台： [Heroku](https://www.heroku.com)， 免费的512M JVM
 
 # 地址
 
-应用地址：[cgcbooklib.herokuapp.com](http://f5f6lib.herokuapp.com)
+应用地址：[f5f6lib.herokuapp.com](http://f5f6lib.herokuapp.com)
 
 源码地址：[github](http://www.github.com/f5f6/booklib)
 
