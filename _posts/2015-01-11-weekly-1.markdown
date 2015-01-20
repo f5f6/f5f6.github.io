@@ -74,9 +74,6 @@ So, 如何参与？ [请点这里]({% post_url 2014-12-28-welcome-to-jekyll %})
 [HeroKu's HTTP API Design Guide](https://github.com/interagent/http-api-design)
 : 很高兴现在大家都自称Http API 而不是 Restful API了， 这份指南集合了学院派与实战派中好的那一部分 -- Calvin
 
-[亿级用户下的新浪微博平台架构](http://mp.weixin.qq.com/s?__biz=MzA4ODAyOTI4Ng==&mid=201317014&idx=1&sn=51d985f13d2d22f7c49654ef7cda0167)
-: 哇，新年第一分钟发送微博808298条......等等，也就1.3万TPS嘛 -- Calvin
-
 [业务系统需要什么样的ID生成器](http://ericliang.info/what-kind-of-id-generator-we-need-in-business-systems/)
 : 我们大部分时候就直接用JDK自带那个唯时间的UUID了，看看人家又是怎么想的 -- Calvin
 
