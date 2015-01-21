@@ -167,4 +167,26 @@ No.   | Name    | Status  |
 
     A [link](test.html){:style='color:red'}
 
+# 成员信息
+
+每个成员需要在`_data/members.yml`里面注册自己的信息，这些信息会显示在 [Members](/members/) 页面里面。
+
+成员信息的模板如下：
+
+~~~
+- name: Calvin
+  github: calvinxiu
+  description: >
+    开源项目 [SpringSide](http://springside.io/) 维护者，江湖人称江南白衣。
+  links:
+  - url: http://anywhere.com
+  - name: SpringSide
+    url: http://springside.io
+  - type: 新浪微博
+    name: calvin1978
+    url: http://www.weibo.com/calvin1978     
+~~~
+
+`name`为成员在这个blog里的名字，需要与 post author 里用的相同。`github`是github中的用户名（不是邮箱），必须提供。`description`为可选的个人描述，可以嵌入markdown语法。`links`下面列出个人的相关网站链接，每个链接有 type, name, url 三个属性，`url`为必须，其他可选。 编辑时要小心，`-`表示一个链接，不要多加了。
+
 - - - -

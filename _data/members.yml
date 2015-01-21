@@ -1,18 +1,28 @@
 - name: Calvin
   github: calvinxiu
-  homepage: http://www.weibo.com/calvin1978
+  description: >
+    开源项目 [SpringSide](http://springside.io/) 维护者，江湖人称江南白衣。
+  links:
+  - type: 新浪微博
+    name: calvin1978
+    url: http://www.weibo.com/calvin1978
 
 - name: Leo Liang
   github: aleung
-  homepage: http://aleung.github.com/blog
-
+  links:
+  - type: blog
+    name: Good good study, day day up
+    url: http://aleung.github.io/blog/
+    
 - name: Homer
   github: aclisp
-  homepage: http://aclisp.github.io
+  links:
+  - url: http://aclisp.github.io
 
 - name: Duff
   github: duffqiu
-  homepage: http://duffqiu.github.io 
+  links:
+  - url: http://duffqiu.github.io 
 
 - name: Neway
   github: Neway6655
@@ -25,10 +35,8 @@
 
 - name: Michael Zhang
   github: cutemic
-  homepage: https://twitter.com/cutemic
+  links:
+  - url: https://twitter.com/cutemic
 
 - name: David Wang
   github: wzhx78
-
-  
-

@@ -18,16 +18,16 @@
 
     {% assign pages_list = site.pages | sort:"url" %}
     {% for node in pages_list %}
-      {% if node.title != null and node.title != "Categories" and node.title !="订阅周刊" %}
+      {% if node.title != null and node.title != "Categories" %}
         {% if node.layout == "page" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
         {% endif %}
       {% endif %}
     {% endfor %}
 
-    <span class="sidebar-nav-item"">Categories</span>
+    <span class="sidebar-nav-item">Categories</span>
 	{% for category in site.categories %} 
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}categories/#{{ category[0] }}-ref">&gt; {{ category[0] }}</a>
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}categories/#{{ category[0] | uri_escape }}">&gt; {{ category[0] }}</a>
 	{% endfor %}
 
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
