@@ -2,11 +2,9 @@
 layout: post
 title:  "五楼六楼周刊 2015 第一期"
 author: All Contributors
-date:   2015-01-19 20:47:48
+date:   2015-01-21 10:47:48
 category: weekly
 ---
-
-[在线编辑](https://github.com/f5f6/f5f6.github.io/edit/master/_posts/2015-01-11-weekly-1.markdown)
 
 # 卷首语
 
@@ -14,9 +12,8 @@ category: weekly
 
 我们热爱技术，我们辛勤工作，我们是在五楼与六楼之间爬上爬下的程序猿。 我们注重程序猿的自我修养， 更鼓励知识在群体里的分享流动。 愿这本周刊成为猿们的磨刀石，茶余饭后时常拿起，从中有所得就更好了。 
 
-So, 如何参与？ [请点这里]({% post_url 2014-12-28-welcome-to-jekyll %})
+So, 如何加入？ [订阅周报](http://eepurl.com/bbZMsv)， [加入编辑]({% post_url 2014-12-28-welcome-to-jekyll %}) 
 
-[订阅周报](http://eepurl.com/bbZMsv)
 
 # 语言
 
@@ -105,7 +102,6 @@ So, 如何参与？ [请点这里]({% post_url 2014-12-28-welcome-to-jekyll %})
 - [如何用Github搭建个人的blog]({% post_url 2015-01-03-personal-blog %}) -- written by Duff, Sky Ao
 - [知乎日报：什么是工程师文化？](http://daily.zhihu.com/story/4442333)
 
-
-##邮件订阅
+#邮件订阅
 
 [订阅周报](http://eepurl.com/bbZMsv)
