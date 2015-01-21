@@ -3,9 +3,14 @@
   description: >
     开源项目 [SpringSide](http://springside.io/) 维护者，网名江南白衣。
   links:
-  - type: 新浪微博
+  - type: blog
+    name: 花钱的年华
+    url: http://calvin1978.blogcn.com/  
+  - type: 微博
     name: calvin1978
     url: http://www.weibo.com/calvin1978
+
+
 
 - name: Leo Liang
   github: aleung
@@ -13,16 +18,20 @@
   - type: blog
     name: Good good study, day day up
     url: http://aleung.github.io/blog/
-    
+
 - name: Homer
   github: aclisp
   links:
-  - url: http://aclisp.github.io
+  - type: blog 
+    name: The Planar Sphere
+    url: http://aclisp.github.io
 
 - name: Duff
   github: duffqiu
   links:
-  - url: http://duffqiu.github.io 
+  - type: blog
+    name: Duff Qiu's Blog
+    url: http://duffqiu.github.io 
 
 - name: Neway
   github: Neway6655
@@ -36,7 +45,9 @@
 - name: Michael Zhang
   github: cutemic
   links:
-  - url: https://twitter.com/cutemic
+  - type: twitter
+    name: cutemic 
+    url: https://twitter.com/cutemic
 
 - name: David Wang
   github: wzhx78
