@@ -93,7 +93,7 @@ So, 如何加入？ [订阅周刊](/subscribe.html) \| [参与编辑]({% post_ur
 
 
 [Thoughtworks技术雷达历年A-Z整理版](http://www.thoughtworks.com/radar/a-z)
-： TW的雷达升级了，不止半年一期的PDF，还可以线上翻看历年所有的item及其评价的变迁，比如[Micro Service](http://www.thoughtworks.com/radar/techniques/microservices)的。 -- Calvin
+: TW的雷达升级了，不止半年一期的PDF，还可以线上翻看历年所有的item及其评价的变迁，比如[Micro Service](http://www.thoughtworks.com/radar/techniques/microservices)的。 -- Calvin
 
 # 编程之外
 
