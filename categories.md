@@ -5,7 +5,7 @@ permalink: /categories/
 ---
 
 {% for category in site.categories %} 
-  <h1 id='{{ category[0] }}-ref'>{{ category[0] }}</h1>
+  <h1 id='{{ category[0] | uri_escape }}'>{{ category[0] }}</h1>
   <ul>
   {% assign pages_list = category[1] %}  
  	{% for post in pages_list %}
