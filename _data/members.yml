@@ -14,6 +14,8 @@
 
 - name: Leo Liang
   github: aleung
+  description: >
+    本站创立者与代码维护者。
   links:
   - type: blog
     name: Good good study, day day up
@@ -38,6 +40,10 @@
 
 - name: Sky Ao
   github: skyao
+  links:
+  - type: blog
+    name: Sky's Blog
+    url: http://skyao.github.io/ 
 
 - name: Jun Xiong
   github: junxiong
