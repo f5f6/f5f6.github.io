@@ -5,7 +5,7 @@ permalink: /categories/
 ---
 {% for category in site.categories %} 
 
-<h2 id='{{ category[0] | uri_escape }}'>{{ category[0] }}</h2>
+<h2 id='{{ category[0] | uri_escape }}' style="margin-top: 2.5rem;">{{ category[0] | upcase}}</h2>
 
 <div id="blog-archives">
  {% assign pages_list = category[1] reverse %}
