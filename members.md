@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members
-permalink: /members.html
+permalink: /members/
 ---
 - .
 {:toc}
@@ -12,7 +12,10 @@ permalink: /members.html
 {:id="{{ member.name | uri_escape }}"}
 
 GitHub: [{{member.github}}](http://www.github.com/{{member.github}}/)
-{% if member.homepage != null %}<br/>Web: <{{member.homepage}}>{% endif %}
+{% for link in member.links %}|
+{% if link.type %}{{ link.type | capitalize }}: {% endif %}{% if link.name %}[{{link.name}}]({{link.url}}){% else %}<{{link.url}}>{% endif %} {% endfor %} 
+
+{% if member.description %}{{ member.description }}{% endif %}
   
 {% assign post_list = site.posts | where:"author", member.name } %}  
 {% if post_list.size > 0 %}
