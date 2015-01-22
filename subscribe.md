@@ -20,15 +20,9 @@ title: 订阅双周刊
 #mc_embed_signup .mc-field-group {clear:left; position:relative; width:96%; padding-bottom:3%; min-height:50px;}
 #mc_embed_signup .size1of2 {clear:none; float:left; display:inline-block; width:46%; margin-right:4%;}
 * html #mc_embed_signup .size1of2 {margin-right:2%; /* Fix for IE6 double margins. */}
-#mc_embed_signup .mc-field-group label {display:block; margin-bottom:3px; font-weight: bold}
+#mc_embed_signup .mc-field-group label {display:block; margin-bottom:6px; font-weight: bold}
 #mc_embed_signup .mc-field-group input {display:block; width:100%; padding:8px 0; text-indent:2%;}
 #mc_embed_signup .mc-field-group select {display:inline-block; width:99%; padding:5px 0; margin-bottom:2px;}
-
-#mc_embed_signup .datefield, #mc_embed_signup .phonefield-us{padding:5px 0;}
-#mc_embed_signup .datefield input, #mc_embed_signup .phonefield-us input{display:inline; width:60px; margin:0 2px; letter-spacing:1px; text-align:center; padding:5px 0 2px 0;}
-#mc_embed_signup .phonefield-us .phonearea input, #mc_embed_signup .phonefield-us .phonedetail1 input{width:40px;}
-#mc_embed_signup .datefield .monthfield input, #mc_embed_signup .datefield .dayfield input{width:30px;}
-#mc_embed_signup .datefield label, #mc_embed_signup .phonefield-us label{display:none;}
 
 #mc_embed_signup .indicates-required {text-align:right; font-size:11px; margin-right:4%;}
 #mc_embed_signup .asterisk {color:#c60; font-size:200%;}
@@ -64,7 +58,7 @@ title: 订阅双周刊
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 	<div style="position: absolute; left: -5000px;"><input type="text" name="b_4feb5c0a48535847f055aeb4a_0bc401006b" tabindex="-1" value=""></div>
-	 <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+	<div class="clear"><input type="submit" value="立刻订阅" name="subscribe" id="mc-embedded-subscribe" class="button"> <span style="float:right; padding:10px 30px 0px 0px; font-size:1.3em;font-weight:bold;"><a href="http://f5f6.github.io/categories/#weekly">>>往期回顾</a></span></div>
 </div>
 (建议使用工作邮箱，其他提供商会将此邮件列表判别为...垃圾邮件)
 </form>
