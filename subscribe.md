@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 订阅周刊
+title: 订阅双周刊
 ---
 
 <!-- Begin MailChimp Signup Form -->

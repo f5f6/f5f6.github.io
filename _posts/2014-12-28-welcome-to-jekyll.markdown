@@ -9,15 +9,15 @@ date:   2014-12-28 00:47:48
 
 # 加入我们
 
-注册一个Github的账号，告诉 Leo Liang , Calvin 或 Duff。
+首先，你要有一个Github的账号，告诉 Leo Liang , Calvin 或 Duff。
 
-可以参考下面的内容策划， 开发分享内容， 操作指南请查阅[Help](/help.html)页面。
+然后，参考下面的内容策划， 愉快的分享内容。操作指南请查阅[Help](/help.html)页面。
 
 # 内容策划
 
-## 五楼六楼技术周刊
+## 五楼六楼技术双周刊
 
-Every Body可以在技术周刊里分享日常看到的技术资料与资讯。 直接在[Wiki](https://github.com/f5f6/f5f6.github.io/wiki/WeeklyDraft) 中修改即可。
+Every Body可以在技术双周刊里分享日常看到的技术资料与资讯。 直接在[Wiki](https://github.com/f5f6/f5f6.github.io/wiki/WeeklyDraft) 提交素材即可。
 
 编辑们会定期发送整理后的周刊到大家的邮箱。
 
@@ -27,7 +27,7 @@ Every Body可以将自己原创的日志分享给大家，形成一个f5f6日志
 
 推荐做法是先在自己平常写日志的地方写好日志，然后在f5f6里新建一个日志，复制粘贴日志的开头摘要， 然后附加一个链接到你写好的日志。
 
-## f5f6项目,及开发日志
+## f5f6项目, 及开发日志
 
 Every Body可以申请在f5f6中创建项目。
 
