@@ -66,7 +66,7 @@ title: 订阅双周刊
 	<div style="position: absolute; left: -5000px;"><input type="text" name="b_4feb5c0a48535847f055aeb4a_0bc401006b" tabindex="-1" value=""></div>
 	 <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 </div>
-(建议使用工作邮箱，其他邮件提供商会将此邮件列表判别为垃圾邮件)
+(建议使用工作邮箱，其他提供商会将此邮件列表判别为...垃圾邮件)
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';}(jQuery));var $mcj = jQuery.noConflict(true);</script>

@@ -39,4 +39,4 @@ PaaS平台： [Heroku](https://www.heroku.com)，免费的512M JVM
 
 # 开发团队
 
-[Junxiong](/members.html#Jun Xiong-ref), [Neway](/members.html#Neway-ref), [Calvin](/members.html#Calvin-ref)
+[Junxiong](/members/#{{'Jun Xiong' | uri_escape}}), [Neway](/members/#Neway), [Calvin](/members/#Calvin)

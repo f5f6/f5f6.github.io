@@ -10,10 +10,6 @@ permalink: /all.html
 - .
 {:toc}
 
-## f5f6 Project
-
-* [P2P 虚拟图书馆项目](/2015/01/11/booklib-1/)
-
 
 ## Big Data
 
@@ -77,6 +73,11 @@ permalink: /all.html
  
 [InfoQ 对Scala 技术栈的归类总结](http://www.infoq.com/cn/articles/scala-technology) -- David
 
+## SOA服务化
+
+[HeroKu's HTTP API Design Guide](https://github.com/interagent/http-api-design)
+: 很高兴现在大家都自称Http API 而不是 Restful API了， 这份指南集合了学院派与实战派中好的那一部分 -- Calvin
+
 ## Web前端
 
 [2014年WEB高手都在做什么](http://yafeilee.me/blogs/54995f3a6c69342f6d100000)
@@ -95,15 +96,6 @@ permalink: /all.html
 [业务系统需要什么样的ID生成器](http://ericliang.info/what-kind-of-id-generator-we-need-in-business-systems/)
 : 我们大部分时候就直接用JDK自带那个唯时间的UUID了，看看人家又是怎么想的 -- Calvin
 
-## 服务设计
-
-[HeroKu's HTTP API Design Guide](https://github.com/interagent/http-api-design)
-: 很高兴现在大家都自称Http API 而不是 Restful API了， 这份指南集合了学院派与实战派中好的那一部分 -- Calvin
-
-## 架构实例
-
-[亿级用户下的新浪微博平台架构](http://mp.weixin.qq.com/s?__biz=MzA4ODAyOTI4Ng==&mid=201317014&idx=1&sn=51d985f13d2d22f7c49654ef7cda0167)
-: 哇，新年第一分钟发送微博808298条......等等，也就1.3万TPS嘛 -- Calvin
 
 ## 工具
 
@@ -116,7 +108,9 @@ permalink: /all.html
 - [开发者头条](http://toutiao.io/)
 - [码农周刊](http://weekly.manong.io/), [分类索引版](https://github.com/nemoTyrant/manong)
 - [Dzone Java](http://java.dzone.com/), [Dzone Architects](http://architects.dzone.com/)
+- [Thoughtworks技术雷达历年A-Z整理版](http://www.thoughtworks.com/radar/a-z)
 - [highscalability.com](http://www.highscalability.com/)
+
 
 ## 编程之外
 
@@ -124,3 +118,7 @@ permalink: /all.html
 - [TimYang眼中的2014](http://timyang.net/tao/thoughts-2014/) -- Calvin
 - [如何用Github搭建个人的blog]({% post_url 2015-01-03-personal-blog %}) -- written by Duff, Sky Ao
 - [知乎日报：什么是工程师文化？](http://daily.zhihu.com/story/4442333)
+
+## f5f6 Project 日志
+
+* [P2P 虚拟图书馆项目](/2015/01/11/booklib-1/)

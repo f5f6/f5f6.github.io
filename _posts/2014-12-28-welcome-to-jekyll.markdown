@@ -17,7 +17,7 @@ date:   2014-12-28 00:47:48
 
 ## 五楼六楼技术双周刊
 
-Every Body可以在技术双周刊里分享日常看到的技术资料与资讯。 直接在[Wiki](https://github.com/f5f6/f5f6.github.io/wiki/WeeklyDraft) 提交素材即可。
+Every Body可以在技术双周刊里分享日常看到的技术资料与资讯。 直接在左边菜单的[Weekly Draft](https://github.com/f5f6/f5f6.github.io/wiki/WeeklyDraft) 提交素材即可。
 
 编辑们会定期发送整理后的周刊到大家的邮箱。
 

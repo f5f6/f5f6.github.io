@@ -42,7 +42,7 @@ So, 如何加入？ [订阅周刊](http://f5f6.github.io/subscribe.html) \| [参
 # Web前端
 
 [A cup of coffee](http://coffeescript.org/)
-: Coffee script的主要目的是增强javascript的表现力，上手的最好资料和练习场就是它的网站。进一步学习Coffee Script，可以参考下面这本免费书[《Smooth Coffee Script》](http://autotelicum.github.io/Smooth-CoffeeScript) -- Junxiong
+: Coffee script的主要目的是增强javascript的表现力，上手的最好资料和练习场就是它的网站。进一步学习可以参考免费书: [《Smooth Coffee Script》](http://autotelicum.github.io/Smooth-CoffeeScript) -- Junxiong
 
 [2014年WEB高手都在做什么](http://yafeilee.me/blogs/54995f3a6c69342f6d100000)
 : GulpJS啦, Bower啦, Angular.js啦, 我们的图书馆项目也有用哦  -- Calvin
@@ -68,7 +68,7 @@ So, 如何加入？ [订阅周刊](http://f5f6.github.io/subscribe.html) \| [参
 : 抛弃, 替换, 模块化; 马丁花说了些大家敢做不敢说的话, 就像他创造的那个叫重构的词，[Martin原文](http://martinfowler.com/bliki/SacrificialArchitecture.html) -- Calvin
 
 [扩展性即服务](http://www.infoq.com/cn/news/2014/12/extended-service)
-: 越来越多的基础组件, 在云里以服务的形式提供, 拍胸脯保证运维与扩展性。也越来越多项目不再愿意自己花精力去运维一堆组件，哪怕是现成开源的， 而宁愿选择这些服务。 除了文中的例子，还有提供Metrics服务的[Librato](https://www.librato.com)， Log管理的[loggly](https://www.loggly.com/) -- Calvin
+: 越来越多的基础组件, 在云里以服务的形式提供, 拍胸脯保证运维与扩展性。 也越来越多项目不再愿意自己花精力去运维一堆组件，哪怕是现成开源的， 而宁愿选择这些服务。 除了文中的例子，还有提供Metrics服务的[Librato](https://www.librato.com)， Log管理的[loggly](https://www.loggly.com/) -- Calvin
 
 [HeroKu's HTTP API Design Guide](https://github.com/interagent/http-api-design)
 : 很高兴现在大家都自称Http API 而不是 Restful API了， 这份指南集合了学院派与实战派中好的那一部分 -- Calvin
@@ -92,7 +92,7 @@ So, 如何加入？ [订阅周刊](http://f5f6.github.io/subscribe.html) \| [参
 : 在线输入关键字如Maven、Eclpse、Intellij， 就能生成一个专业的.gitignore文件 -- Calvin
 
 [Thoughtworks技术雷达历年A-Z整理版](http://www.thoughtworks.com/radar/a-z)
-: TW的雷达升级了，不止半年一期的PDF，还可以线上翻看历年所有的item及其评价的变迁，比如[Micro Service](http://www.thoughtworks.com/radar/techniques/microservices)的。 -- Calvin
+: TW的雷达升级了，不止半年一期的PDF，还可以线上翻看历年所有的item及其评价的变迁。 -- Calvin
 
 # 编程之外
 
