@@ -6,7 +6,9 @@ permalink: /members/
 - .
 {:toc}
 
-{% for member in site.data.members | sort:"name" %} 
+{% assign member_list = site.data.members | sort:"name" %}
+
+{% for member in member_list %} 
 
 # {{ member.name }}
 {:id="{{ member.name | uri_escape }}"}
