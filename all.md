@@ -13,10 +13,6 @@ permalink: /all.html
 
 ## Big Data
 
-[Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) 
-
-: Storm是流式处理大数据的框架，可处理物联网传感器上传的海量数据 -- Calvin
-
 [《大数据日知录》](http://book.douban.com/subject/25984046/)
 
 : 荐书： 即使家里没有PB级别的大数据要处理, 只看前半部, 也对NoSQL和分布式系统的种种概念如CAP,最终一致性,RWN,向量时钟,Paxos,一致性哈希,Gossip,列存储什么的有一个清晰的梳理 -- Calvin
@@ -26,11 +22,6 @@ permalink: /all.html
 [函数式编程的思考](http://aclisp.github.io/blog/2015/01/14/fp-thinking.html)
 : 一种反对在团队开发中采用函数式编程的观点 -- written by Homer
 
-## IoT (物联网)
-
-[Node-RED](http://nodered.org/)
-
-: IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”，它让开发人员可以使用一种基于浏览器的流程编辑器，连接诸多设备、服务和API。 -- Wenzheng Zhu
 
 ## Java
 

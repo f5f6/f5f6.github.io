@@ -77,15 +77,6 @@ So, 如何加入？ [订阅周刊](http://f5f6.github.io/subscribe.html) \| [参
 : 我们大部分时候就直接用JDK自带那个唯时间的UUID了，看看人家又是怎么想的 -- Calvin
 
 
-# 物联网与大数据
-
-[Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) 
-: Storm是流式处理大数据的框架, 可处理物联网传感器上传的海量数据, [英文原版](http://it-ebooks.info/book/888/) -- Calvin
-
-[Node-RED](http://nodered.org/)
-: IBM的开源产品，立足于Node.js，自称是“用于连接物联网的可视化工具”, 它让开发人员可以使用一种基于浏览器的流程编辑器, 连接诸多设备、服务和API -- Wenzheng Zhu
-
-
 # 工具与资源
 
 [www.gitignore.io](https://www.gitignore.io)
