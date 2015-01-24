@@ -58,7 +58,7 @@ title: 订阅双周刊
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 	<div style="position: absolute; left: -5000px;"><input type="text" name="b_4feb5c0a48535847f055aeb4a_0bc401006b" tabindex="-1" value=""></div>
-	<div class="clear"><input type="submit" value="立刻订阅" name="subscribe" id="mc-embedded-subscribe" class="button"> <span style="float:right; padding:10px 30px 0px 0px; font-size:1.3em;font-weight:bold;"><a href="http://f5f6.github.io/categories/#weekly">>>往期回顾</a></span></div>
+	<div class="clear"><input type="submit" value="立刻订阅" name="subscribe" id="mc-embedded-subscribe" class="button"> <span style="float:right; padding:10px 30px 0px 0px; font-size:1.2em;font-weight:bold;"><a href="http://f5f6.github.io/weekly.html">>>往期回顾</a></span></div>
 </div>
 (建议使用工作邮箱，其他提供商会将此邮件列表判别为...垃圾邮件)
 </form>

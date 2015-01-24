@@ -9,26 +9,14 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-    {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
-    {% endcomment %}
-
-    {% assign pages_list = site.pages | sort:"url" %}
-    {% for node in pages_list %}
-      {% if node.title != null and node.title != "Categories" and node.title != "订阅双周刊" and node.title != "Help"%}
-        {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    <span class="sidebar-nav-item">Categories</span>
-	{% for category in site.categories %} 
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}categories/#{{ category[0] | uri_escape }}">&gt; {{ category[0] | .capitalize}}</a>
-	{% endfor %}
+   <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+   
+   <span class="sidebar-nav-item">Categories</span>
+	 <a class="sidebar-nav-item{% if page.url == '/weekly.html' %} active{% endif %}" href="/weekly.html">&gt; Weekly</a>
+   <a class="sidebar-nav-item{% if page.url == '/blog.html' %} active{% endif %}" href="/blog.html">&gt; Blog</a>
+   <a class="sidebar-nav-item{% if page.url == '/project.html' %} active{% endif %}" href="/project.html">&gt; Project</a>
+	 <a class="sidebar-nav-item{% if page.url == '/members/' %} active{% endif %}" href="/members/">Members</a> 
+   <a class="sidebar-nav-item{% if page.url == '/all.html' %} active{% endif %}" href="/all.html">Content Index</a>
    <a class="sidebar-nav-item" href="https://github.com/f5f6/f5f6.github.io/wiki/WeeklyDraft">Weekly Draft</a>
    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
    <a class="sidebar-nav-item{% if page.url == '/help.html' %} active{% endif %}" href="/help.html">Help</a>

@@ -15,7 +15,7 @@ title: Home
     <span class="post-date">
       {{ post.date | date_to_string }} | <a href="{{ site.baseurl }}members/#{{ post.author | uri_escape }}">{{ post.author }}</a>
       {% if post.category %}
-      <span class="post-meta-right">Category: <a href="{{ site.baseurl }}categories/#{{ post.category | uri_escape }}">{{ post.category }}</a></span>
+      <span class="post-meta-right">Category: <a href="{{ site.baseurl }}{{ post.category}}.html">{{ post.category }}</a></span>
       {% endif %}
     </span>
 
