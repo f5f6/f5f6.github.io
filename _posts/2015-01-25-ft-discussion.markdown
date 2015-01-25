@@ -10,4 +10,6 @@ category: blog
 
 最后， 配诗一首。
 
-[全文阅读](http://calvin1978.blogcn.com/articles/haskell.html) 
+PS. Leo后来又作了仔细的二校， 还是直接读他的版本更好。
+
+[全文阅读](http://aleung.github.io/blog/2015/01/25/fp) 
