@@ -92,7 +92,7 @@ So, 如何加入？ [订阅周刊](http://f5f6.github.io/subscribe.html) \| [参
 - [如何用Github搭建个人的blog](http://f5f6.github.io/2015/01/03/personal-blog/) -- written by Duff, Sky Ao
 - [知乎日报：什么是工程师文化？](http://daily.zhihu.com/story/4442333)
 
-#邮件订阅
+# 邮件订阅
 
 - [订阅周刊](http://f5f6.github.io/subscribe.html)
 
