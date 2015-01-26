@@ -14,6 +14,7 @@ category: blog
 - [Octopress经验](http://duffqiu.github.io/blog/categories/octopress/): written by Duff Qiu
 - [hexo](http://skyao.github.io/2014/11/24/hexo-upgrade/): written by Sky Ao
 - [Jekyll](): By Leo Liang (TODO)
+- [Jekyll-Boostrap](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) -- 号称3分钟建好blog
 
 外部资料：
 
