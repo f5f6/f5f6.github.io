@@ -7,7 +7,7 @@ category: blog
 ---
 
 
-目前在Github上搭建个人blog的方式已经多种多样了, 有f5f6用的[Jelly](http://jekyllrb.com/)，有[Octopress](http://octopress.org/), [hexo](http://hexo.io/), 更简单可以用[gitbook](https://www.gitbook.com/)
+目前在Github上搭建个人blog的方式已经多种多样了, 有f5f6用的[Jekyll](http://jekyllrb.com/)，有[Octopress](http://octopress.org/), [hexo](http://hexo.io/), 更简单可以用[gitbook](https://www.gitbook.com/)
 
 以下是这几种工具的攻略, 大家可以根据自己的偏好做选择
 
