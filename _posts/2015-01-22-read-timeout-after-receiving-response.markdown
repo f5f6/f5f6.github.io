@@ -2,7 +2,7 @@
 layout: post
 title:  "客户端收到了正确的返回结果, 但是系统还是报socket timeout"
 author: sean.gong
-date:   2015-01-22
+date:   2015-01-27
 category: blog
 ---
 
@@ -26,3 +26,9 @@ category: blog
 {% endhighlight %}
 
 [useful link](http://samaxes.com/2009/04/axis-14-read-timed-out-and-http-11/)
+
+
+####参考：TCP连接/断开流程
+
+![tcp_connect](/attachment/201501/tcp_connect.gif)
+
