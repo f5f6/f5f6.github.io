@@ -10,7 +10,7 @@ category: blog
 最近客户的site上遇到一个问题, 一个web  services 的请求已经收到了正确的响应. 但是日志中不停的报"java.net.SocketTimeoutException: Read timed out". 但是在实验室里面没有办法重现. 最后发现请求是HTTP 1.0, 回的响应是HTTP 1.1. 最后将请求改成HTTP1.1, 问题解决.(感谢 Geoffrey Chen 提供)
 
 ###原因分析
-客户端使用HTTP 1.0发送request,  所以在接到response后, 就发送ACK等待对方响应ACK和FIN,ACK, 从而按照HTTP1.0的规范关闭请求;但是服务端是按照HTTP1.1处理, 当他接收到ACK后,就没有任何响应,自动结束对话. 默认60秒后客户端发送强制关闭连接。
+客户端使用HTTP 1.0发送request,  所以在接到response后, 就发送ACK等待对方响应FIN,ACK, 从而按照HTTP1.0的规范关闭请求;但是服务端是按照HTTP1.1处理, 当他接收到ACK后,就没有任何响应,自动结束对话. 默认60秒后客户端发送强制关闭连接。
 
 ![tcpdump](https://raw.githubusercontent.com/tigersean/my_blog/master/image/http10-11_mix_issue.png)
 	
