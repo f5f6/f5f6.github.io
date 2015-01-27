@@ -30,5 +30,5 @@ category: blog
 
 ####参考：TCP连接/断开流程
 
-![tcp_connect](/attachment/201501/tcp_connect.gif)
+![tcp_connect](/attachments/201501/tcp_connect.gif)
 
