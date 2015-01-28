@@ -7,15 +7,13 @@ category: blog
 ---
 
 
-目前在Github上搭建个人blog的方式已经多种多样了, 有f5f6用的[Jekyll](http://jekyllrb.com/)，有[Octopress](http://octopress.org/), [hexo](http://hexo.io/), 更简单可以用[gitbook](https://www.gitbook.com/)
+目前在Github上搭建个人blog的方式已经多种多样了, 我们有使用经验的包括：f5f6在用的[Jekyll](http://jekyllrb.com/)，基于Jekyll增强的[Octopress](http://octopress.org/)，还有[hexo](http://hexo.io/)。
 
 以下是这几种工具的攻略, 大家可以根据自己的偏好做选择
 
 - [Octopress经验](http://duffqiu.github.io/blog/categories/octopress/): written by Duff Qiu
-- [hexo](http://skyao.github.io/2014/11/24/hexo-upgrade/): written by Sky Ao
-- [Jekyll](http://aleung.github.io/blog/2015/01/26/jekyll/): written by Leo Liang
-- [Jekyll-Boostrap](http://jekyllbootstrap.com/usage/jekyll-quick-start.html) -- 号称3分钟建好blog
-
-外部资料：
-
-- [每个人都应该有一个Jekyll博客](http://www.cellier.me/2015/01/04/jekyll%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/) by @JavaChen
+- [Hexo](http://skyao.github.io/2014/11/24/hexo-upgrade/): written by Sky Ao
+- Jekyll
+  - 精简指南：[Jekyll on Github](https://cutemic.github.io/2015/01/27/blogging-with-jekyll-on-github/)
+  - [Windows上安装Jekyll，及Jekyll.exe](http://aleung.github.io/blog/2015/01/26/jekyll/)
+  - 给小白看的啰啰嗦嗦指南：[每个人都应该有一个Jekyll博客](http://www.cellier.me/2015/01/04/jekyll%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E6%95%99%E7%A8%8B/)
