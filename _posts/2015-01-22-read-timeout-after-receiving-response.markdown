@@ -25,10 +25,10 @@ category: blog
 
 - 继续使用HTTP1.0
 
-```
-((TerminalSessionSOAPBindingStub) terminalSession_PortType)._setProperty(
+
+    ((TerminalSessionSOAPBindingStub) terminalSession_PortType)._setProperty(
         MessageContext.HTTP_TRANSPORT_VERSION, HTTPConstants.HEADER_PROTOCOL_V10);
-```
+
 
 ###useful link
 [http://samaxes.com/2009/04/axis-14-read-timed-out-and-http-11/](http://samaxes.com/2009/04/axis-14-read-timed-out-and-http-11/)
