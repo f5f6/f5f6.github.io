@@ -14,7 +14,7 @@ category: blog
 
 - 从服务端看,他按照HTTP1.1处理, 当他接收到ACK后,就没有任何响应,自动结束对话. 
 
-- 因此默认60秒后客户端超时发送强制关闭连接。
+- 因此默认60秒后客户端超时,发送强制关闭连接.抛出Exception。
 
 ![tcpdump](/attachments/201501/http10-11_mix_issue.png)
 	
