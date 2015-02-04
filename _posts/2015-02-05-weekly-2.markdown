@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "五楼六楼双周刊 2015 第二期"
+author: All Contributors
+category: weekly
+---
+
+# 卷首语
+
+TODO: Mic
+
+# 云上的日子
+
+[OpenStack Keystone 故事一則](http://f5f6.github.io/2015/02/03/openstack-keystone/)  -- Mic
+
+[Network Setup in OpenStack](http://f5f6.github.io/2015/01/28/network-setup-in-openstack/)  -- Mic
+
+# 架构设计
+
+[The Twelve-Factor App](http://12factor.net/)
+: 介绍了开发 SaaS 应用应该考虑的一些原则，构建轻量化、无依赖，适应于云部署的应用。 【Leo荐】
+
+
+企业集成模式(EIP)
+
+- [标准化模式Normalizer](http://duffqiu.github.io/blog/2015/02/02/integration-pattern-normalizer/) -- Duff
+- [规范化数据流模式](http://duffqiu.github.io/blog/2015/02/02/integration-pattern-canonical-data-model/) –- Duff
+- EIP推荐书籍[Enterprise Integration Pattern](http://book.douban.com/subject/1438029/)【Duff荐】
+
+# 开源硬件
+[Arduino](http://neway6655.github.io/open-source%20hardware/2015/01/28/arduino-introduction.html):开源硬件Arduino简介。 -- Neway
+
+# Trouble Shooting
+[Hazelcast Split Brain](http://neway6655.github.io/hazelcast/2014/10/31/hazelcast-split-brain.html), Hazelcast脑裂的产生过程及自动恢复分析。 -- Neway
+
+[Virtualbox上修复centos7实例](http://duffqiu.github.io/blog/2015/02/02/fix-centos-virtualbox/) –- Duff&Junjun
+
+[还在用select么?](http://eyinsma.github.io/tech/2015/01/31/%E8%BF%98%E5%9C%A8%E7%94%A8select%E4%B9%88/), Unix Socket编程中的select支持多连接的问题 -- Samuel
+
+[socket timeout的烦恼](http://f5f6.github.io/2015/01/27/read-timeout-after-receiving-response/) -- Junjun
+
+# 工具
+[Astral](https://app.astralapp.com/dashboard)
+: 当在 GitHub 里收藏（加星）了好多好多的项目后，要查找某个项目就不是那么容易的事情。Astral帮助你用自定义的tag来管理这些项目，还能快速浏览项目的README。 【Leo荐】
+
+[PlantUML 简介](http://www.slideshare.net/aleung/plantuml)，slides，需要翻墙访问。-- Leo
+
+
