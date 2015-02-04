@@ -18,6 +18,9 @@ category: weekly
 
 [Network Setup in OpenStack](http://f5f6.github.io/2015/01/28/network-setup-in-openstack/)  -- Mic
 
+[The Docker Book](http://book.douban.com/subject/26285268/)， [官网](http://dockerbook.com/)
+: Docker的入门手册，扫盲必备，目前唯一的Docker书籍 【Duff, Junjun荐】
+
 # 架构设计
 
 [The Twelve-Factor App](http://12factor.net/)
@@ -28,10 +31,12 @@ category: weekly
 
 - [标准化模式Normalizer](http://duffqiu.github.io/blog/2015/02/02/integration-pattern-normalizer/) -- Duff
 - [规范化数据流模式](http://duffqiu.github.io/blog/2015/02/02/integration-pattern-canonical-data-model/) –- Duff
-- EIP推荐书籍[Enterprise Integration Pattern](http://book.douban.com/subject/1438029/)【Duff荐】
+- EIP推荐书籍[Enterprise Integration Pattern](http://book.douban.com/subject/1438029/) 【Duff荐】
 
 # 开源硬件
 [Arduino](http://neway6655.github.io/open-source%20hardware/2015/01/28/arduino-introduction.html):开源硬件Arduino简介。 -- Neway
+
+[Getting Started with Arduino](http://it-ebooks.info/book/1338/) 【Duff荐】
 
 # Trouble Shooting
 [Hazelcast Split Brain](http://neway6655.github.io/hazelcast/2014/10/31/hazelcast-split-brain.html), Hazelcast脑裂的产生过程及自动恢复分析。 -- Neway
