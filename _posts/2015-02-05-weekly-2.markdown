@@ -7,7 +7,10 @@ category: weekly
 
 # 卷首语
 
-TODO: Mic
+與其他的技術周刊不同，這裡的內容幾乎都是和我們日常工作相關度很高的，可閱讀性很強。
+此外由於是民間組織，幾乎沒有任何約束，以此內容又具備一定的廣度和前瞻性，貼近技術潮流，而非局限于目前所需。
+最後也最重要的是，我們所有人都可以成為這本周刊的撰稿作者，或者采稿小編，強烈推薦大家訂閱和貢獻內容。
+
 
 # 云上的日子
 
@@ -45,4 +48,8 @@ TODO: Mic
 
 [PlantUML 简介](http://www.slideshare.net/aleung/plantuml)，slides，需要翻墙访问。-- Leo
 
+
+# 邮件订阅
+
+- [订阅周刊](http://f5f6.github.io/subscribe.html)
 
