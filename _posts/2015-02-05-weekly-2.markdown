@@ -13,7 +13,7 @@ category: weekly
 
 最後也最重要的是，我們所有人都可以成為這本周刊的撰稿作者，或者采稿小編，強烈推薦大家訂閱和貢獻內容。 
 
---Michael Zhang
+--Michael Zhang  \| [订阅周刊](http://f5f6.github.io/subscribe.html) \| [参与分享](http://f5f6.github.io/2014/12/28/welcome-to-jekyll/) 
 
 
 # 云上的日子
@@ -42,7 +42,7 @@ category: weekly
 
 # 开源硬件
 
-[Arduino](http://neway6655.github.io/open-source%20hardware/2015/01/28/arduino-introduction.html)
+[What is Arduino](http://neway6655.github.io/open-source%20hardware/2015/01/28/arduino-introduction.html)
 : 一篇关于Arduino的扫盲简文, 大家也可以来我桌上看实物 -- Neway
 
 [_Getting Started with Arduino_](http://it-ebooks.info/book/1338/) --Duff 荐

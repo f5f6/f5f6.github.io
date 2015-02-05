@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "客户端收到了正确的返回结果, 但是系统还是报socket timeout"
-author: sean.gong
+author: Gong Jun
 date:   2015-01-27
 category: blog
 ---
