@@ -37,6 +37,10 @@
 
 - name: Neway
   github: Neway6655
+  links:
+  - type: blog
+    name: Neway6655's blog
+    url: http://neway6655.github.io
 
 - name: Sky Ao
   github: skyao
