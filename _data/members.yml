@@ -55,6 +55,9 @@
 - name: Mic
   github: cutemic
   links:
+  - type: blog
+    name: Blank Space 
+    url: https://cutemic.github.io
   - type: twitter
     name: cutemic 
     url: https://twitter.com/cutemic
@@ -67,3 +70,7 @@
 
 - name: Samuel Ma
   github: eyinsma
+  links:
+  - type: blog
+    name: Samuel's life, Samuel's way
+    url: http://eyinsma.github.io/
