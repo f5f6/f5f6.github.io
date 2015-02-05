@@ -22,7 +22,7 @@ category: weekly
 : 在 OpenStack 中服務的認證授權是依靠代號 Keystone的 ID 服務 來控制的。\\
 前不久碰到一個與它相關的問題，本著分享的精神記錄一下。 -- Mic
 
-[Network Setup in OpenStack](http://f5f6.github.io/2015/01/28/network-setup-in-openstack/) 
+[Network Setup in OpenStack](https://cutemic.github.io/2015/01/28/network-setup-in-openstack/) 
 : 這是一篇關於 OpenStack 網絡配置的短文。只簡單羅列若干關鍵點，是懶人寫給懶人的快速指引，僅供參考。 -- Mic
 
 [\<The Docker Book\>](http://book.douban.com/subject/26285268/)， [官网](http://dockerbook.com/)
@@ -44,16 +44,19 @@ category: weekly
 [Arduino](http://neway6655.github.io/open-source%20hardware/2015/01/28/arduino-introduction.html)
 : 一篇关于Arduino的扫盲简文, 大家也可以来我桌上看实物 -- Neway
 
-[Getting Started with Arduino](http://it-ebooks.info/book/1338/) [Duff荐]
+[\<Getting Started with Arduino\>](http://it-ebooks.info/book/1338/) [Duff荐]
 
 # Trouble Shooting
-[Hazelcast Split Brain](http://neway6655.github.io/hazelcast/2014/10/31/hazelcast-split-brain.html), Hazelcast脑裂的产生过程及自动恢复分析。 -- Neway
+[Hazelcast Split Brain](http://neway6655.github.io/hazelcast/2014/10/31/hazelcast-split-brain.html)
+: Hazelcast脑裂的产生过程及自动恢复分析。 -- Neway
 
 [Virtualbox上修复centos7实例](http://duffqiu.github.io/blog/2015/02/02/fix-centos-virtualbox/) –- Duff&Junjun
 
-[还在用select么?](http://eyinsma.github.io/tech/2015/01/31/%E8%BF%98%E5%9C%A8%E7%94%A8select%E4%B9%88/), Unix Socket编程中的select支持多连接的问题 -- Samuel
+[还在用select么?](http://eyinsma.github.io/tech/2015/01/31/%E8%BF%98%E5%9C%A8%E7%94%A8select%E4%B9%88/)
+: Diameter Stack里一段JNI的代码把我们又带回Unix Socket编程 -- Samuel
 
-[socket timeout的烦恼](http://f5f6.github.io/2015/01/27/read-timeout-after-receiving-response/) -- Junjun
+[socket timeout的烦恼](http://f5f6.github.io/2015/01/27/read-timeout-after-receiving-response/)
+: 一个web services 的请求已经收到了正确的响应. 但是日志中不停的报”java.net.SocketTimeoutException: Read timed out” -- Junjun
 
 # 工具
 [Astral](https://app.astralapp.com/dashboard)
