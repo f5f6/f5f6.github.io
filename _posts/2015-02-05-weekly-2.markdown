@@ -8,35 +8,43 @@ category: weekly
 # 卷首语
 
 與其他的技術周刊不同，這裡的內容幾乎都是和我們日常工作相關度很高的，可閱讀性很強。
+
 此外由於是民間組織，幾乎沒有任何約束，以此內容又具備一定的廣度和前瞻性，貼近技術潮流，而非局限于目前所需。
-最後也最重要的是，我們所有人都可以成為這本周刊的撰稿作者，或者采稿小編，強烈推薦大家訂閱和貢獻內容。
+
+最後也最重要的是，我們所有人都可以成為這本周刊的撰稿作者，或者采稿小編，強烈推薦大家訂閱和貢獻內容。 
+
+--Michale Zhang
 
 
 # 云上的日子
 
-[OpenStack Keystone 故事一則](http://f5f6.github.io/2015/02/03/openstack-keystone/)  -- Mic
+[OpenStack Keystone 故事一則](https://cutemic.github.io/2015/02/02/openstack-keystone/) 
+: 在 OpenStack 中服務的認證授權是依靠代號 Keystone的 ID 服務 來控制的。\\
+前不久碰到一個與它相關的問題，本著分享的精神記錄一下。 -- Mic
 
-[Network Setup in OpenStack](http://f5f6.github.io/2015/01/28/network-setup-in-openstack/)  -- Mic
+[Network Setup in OpenStack](http://f5f6.github.io/2015/01/28/network-setup-in-openstack/) 
+: 這是一篇關於 OpenStack 網絡配置的短文。只簡單羅列若干關鍵點，是懶人寫給懶人的快速指引，僅供參考。 -- Mic
 
-[The Docker Book](http://book.douban.com/subject/26285268/)， [官网](http://dockerbook.com/)
-: Docker的入门手册，扫盲必备，目前唯一的Docker书籍 【Duff, Junjun荐】
+[\<The Docker Book\>](http://book.douban.com/subject/26285268/)， [官网](http://dockerbook.com/)
+: Docker的入门手册，扫盲必备，目前唯一的Docker书籍   [Duff, GongJun荐]
 
 # 架构设计
 
 [The Twelve-Factor App](http://12factor.net/)
-: 介绍了开发 SaaS 应用应该考虑的一些原则，构建轻量化、无依赖，适应于云部署的应用。 【Leo荐】
+: 介绍了开发 SaaS 应用应该考虑的一些原则，构建轻量化、无依赖，适应于云部署的应用。  [Leo荐] 
 
 
-企业集成模式(EIP)
+**企业集成模式(EIP)**
 
 - [标准化模式Normalizer](http://duffqiu.github.io/blog/2015/02/02/integration-pattern-normalizer/) -- Duff
 - [规范化数据流模式](http://duffqiu.github.io/blog/2015/02/02/integration-pattern-canonical-data-model/) –- Duff
-- EIP推荐书籍[Enterprise Integration Pattern](http://book.douban.com/subject/1438029/) 【Duff荐】
+- [\<Enterprise Integration Pattern\>](http://book.douban.com/subject/1766652/) [Duff荐]
 
 # 开源硬件
-[Arduino](http://neway6655.github.io/open-source%20hardware/2015/01/28/arduino-introduction.html):开源硬件Arduino简介。 -- Neway
+[Arduino](http://neway6655.github.io/open-source%20hardware/2015/01/28/arduino-introduction.html)
+: 一篇关于Arduino的扫盲简文, 大家也可以来我桌上看实物 -- Neway
 
-[Getting Started with Arduino](http://it-ebooks.info/book/1338/) 【Duff荐】
+[Getting Started with Arduino](http://it-ebooks.info/book/1338/) [Duff荐]
 
 # Trouble Shooting
 [Hazelcast Split Brain](http://neway6655.github.io/hazelcast/2014/10/31/hazelcast-split-brain.html), Hazelcast脑裂的产生过程及自动恢复分析。 -- Neway
