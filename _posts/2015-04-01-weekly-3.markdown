@@ -12,7 +12,7 @@ category: weekly
 --Calvin \| [订阅周刊](http://f5f6.github.io/subscribe.html) \| [参与分享](http://f5f6.github.io/2014/12/28/welcome-to-jekyll/) 
 
 
-# 大数据与云
+# 大数据之Storm
 
 [Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) 
 : Storm是流式处理大数据的框架, 可处理物联网传感器上传的海量数据, [英文原版](http://it-ebooks.info/book/888/) -- Calvin荐
@@ -23,8 +23,10 @@ category: weekly
 [Storm是如何成为Apache顶级项目的](http://www.infoq.com/cn/news/2014/10/storm-apache-top-level-project)
 : InfoQ根据一篇Storm创始人的夫子自道写成的很有意思的项目历史文。
 
-[Esper学习笔记](http://blog.csdn.net/luonanqin/article/category/1557469)
-: 相比七百九十二页的[官方文档](http://esper.codehaus.org/esper-5.1.0/doc/reference/en-US/html/index.html)，这十几篇笔记相当亲切 -- Calvin荐
+# 云之Docker
+
+[一个不是很短的Docker入门介绍](http://dockerone.com/article/277)
+: 如题，一篇长度适中的Docker指南翻译 -- Calvin荐
 
 [大规模Docker集群助力微博迎接春晚峰值挑战](http://www.weibo.com/p/1001603811301997572906)
 : 一个有说服力的在生产系统使用Docker的案例 -- Calvin荐
@@ -32,15 +34,18 @@ category: weekly
 [普通群众玩Docker](http://calvin1978.blogcn.com/articles/begintodocker.html)
 : 手把手，15分钟在Windows上搭一个可以玩Docker的环境 -- Calvin
 
-[etcd：从应用场景到实现原理的全方位解读](http://www.infoq.com/cn/articles/etcd-interpretation-application-scenario-implement-principle)
-: [etcd](https://github.com/coreos/etcd)是Coreos提供的类似zookeeper的k/v配置数据存储与发现。个人认为比zookeeper简单，并且提供的api是restful的，不像zookeeper那么晦涩难懂 -- Duff荐
-
 
 # 深入，再深入
 
 [Practise of Using Graphite](http://neway6655.github.io/graphite/2015/03/24/practise-of-using-graphite.html)
 : 网上少有的深入玩转Graphite的文章，记录项目中采用Graphtie收集业务数据时遇到的问题及解决办法 -- Neway
 
+
+[在线数据迁移经验：如何为正在飞行的飞机更换引擎](http://www.infoq.com/cn/articles/online-data-migration-experience)
+: 为在飞行的飞机更换引擎这句话听很多次了，微博架构师终于写了一篇文章 -- Calvin荐
+
+[etcd：从应用场景到实现原理的全方位解读](http://www.infoq.com/cn/articles/etcd-interpretation-application-scenario-implement-principle)
+: [etcd](https://github.com/coreos/etcd)是Coreos提供的类似zookeeper的k/v配置数据存储与发现。个人认为比zookeeper简单，并且提供的api是restful的，不像zookeeper那么晦涩难懂 -- Duff荐
 
 # 语言，语言，Scala
 
