@@ -18,15 +18,15 @@ category: weekly
 : Storm是流式处理大数据的框架, 可处理物联网传感器上传的海量数据, [英文原版](http://it-ebooks.info/book/888/) -- Calvin荐
 
 [Storm笔记](http://calvin1978.blogcn.com/articles/stormnotes.html) 
-: 用了一段时间Storm后的笔记。发现可以记的东西不多，证明Storm挺简单的，你只要遵循一些简单的接口与原则，就能写出大规模实时消息处理的程序。 -- Calvin
+: 用了一段时间Storm后的笔记。发现可以记的东西不多，证明Storm挺简单的，你只要遵循一些简单的接口与原则，就能写出大规模实时消息处理的程序 -- Calvin
 
 [Storm是如何成为Apache顶级项目的](http://www.infoq.com/cn/news/2014/10/storm-apache-top-level-project)
 : InfoQ根据一篇Storm创始人的夫子自道写成的很有意思的项目发展历史文。
 
 [Esper学习笔记](http://blog.csdn.net/luonanqin/article/category/1557469)
-: 相比七百九十二页的[官方文档](http://esper.codehaus.org/esper-5.1.0/doc/reference/en-US/html/index.html)，这十几篇笔记相当亲切。 -- Calvin荐
+: 相比七百九十二页的[官方文档](http://esper.codehaus.org/esper-5.1.0/doc/reference/en-US/html/index.html)，这十几篇笔记相当亲切 -- Calvin荐
 
-[土人用VirtualBox+CoreOS玩Docker](http://calvin1978.blogcn.com/)
+[普通群众玩Docker](http://calvin1978.blogcn.com/articles/begintodocker.html)
 : 手把手，15分钟在Windows上搭一个可以玩Docker的环境 -- Calvin
 
 [etcd](https://github.com/coreos/etcd)
@@ -42,7 +42,7 @@ category: weekly
 # 语言，语言，Scala
 
 [同事们关于FP语言讨论](http://aleung.github.io/blog/2015/01/25/fp/)
-：　SA Team集体创作， Calvin/Leo整理。
+: SA Team集体创作，Calvin/Leo整理。
 
 **Duff的『了哥聊Scala』系列**
 
@@ -62,7 +62,7 @@ category: weekly
 # MQ 专题
 
 [Dissecting message queues](http://www.bravenewgeek.com/dissecting-message-queues/)
-： MQ系统大阅兵，有ActiveMQ, RabbitMQ这些老牌的，有Kafka, NSQ这些新秀 --Bell Fan
+: MQ系统大阅兵，有ActiveMQ、RabbitMQ这些老牌的，有Kafka、NSQ这些全新设计充分解决扩展性的新秀 --Bell Fan
 
 [Apache Kafka：下一代分布式消息系统](http://www.infoq.com/cn/articles/apache-kafka)
 : 一个特立独行的MQ系统，名字就是卡夫卡， 变成甲壳虫的卡夫卡， 扩展性是它对ActiveMQ， RabbitMQ们骄傲的地方 -- Calvin荐
