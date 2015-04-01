@@ -21,16 +21,19 @@ category: weekly
 : 用了一段时间Storm后的笔记。发现可以记的东西不多，证明Storm挺简单的，你只要遵循一些简单的接口与原则，就能写出大规模实时消息处理的程序 -- Calvin
 
 [Storm是如何成为Apache顶级项目的](http://www.infoq.com/cn/news/2014/10/storm-apache-top-level-project)
-: InfoQ根据一篇Storm创始人的夫子自道写成的很有意思的项目发展历史文。
+: InfoQ根据一篇Storm创始人的夫子自道写成的很有意思的项目历史文。
 
 [Esper学习笔记](http://blog.csdn.net/luonanqin/article/category/1557469)
 : 相比七百九十二页的[官方文档](http://esper.codehaus.org/esper-5.1.0/doc/reference/en-US/html/index.html)，这十几篇笔记相当亲切 -- Calvin荐
 
+[大规模Docker集群助力微博迎接春晚峰值挑战](http://www.weibo.com/p/1001603811301997572906)
+: 一个有说服力的在生产系统使用Docker的案例 -- Calvin荐
+
 [普通群众玩Docker](http://calvin1978.blogcn.com/articles/begintodocker.html)
 : 手把手，15分钟在Windows上搭一个可以玩Docker的环境 -- Calvin
 
-[etcd](https://github.com/coreos/etcd)
-: Coreos提供的类似zookeeper的k/v配置数据存储与发现。个人认为比zookeeper简单，并且提供的api是restful的，不像zookeeper那么晦涩难懂 -- Duff荐
+[etcd：从应用场景到实现原理的全方位解读](http://www.infoq.com/cn/articles/etcd-interpretation-application-scenario-implement-principle)
+: [etcd](https://github.com/coreos/etcd)是Coreos提供的类似zookeeper的k/v配置数据存储与发现。个人认为比zookeeper简单，并且提供的api是restful的，不像zookeeper那么晦涩难懂 -- Duff荐
 
 
 # 深入，再深入
