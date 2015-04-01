@@ -46,6 +46,7 @@ category: weekly
 
 **Duff的『了哥聊Scala』系列**
 
+* [Scala中函数式编程还是命令式编程](http://duffqiu.github.io/blog/2015/02/05/fp-or-imperative-with-scala/)
 * [Sublime入门以及搭建scala开发环境](http://duffqiu.github.io/blog/2015/02/25/sublime-startup/) 
 * [Scala2.11版本新特性](http://duffqiu.github.io/blog/2015/03/02/scala211-overview/)
 * [如何将scala作为script语言来作为调用](http://duffqiu.github.io/blog/2015/03/03/scala-script/) 就像我们java代码中调用javacript那样 
