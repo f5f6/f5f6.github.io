@@ -1,0 +1,82 @@
+---
+layout: post
+title:  "五楼六楼双周刊 2015 第三期"
+author: All Contributors
+category: weekly
+---
+
+# 卷首语
+
+双周刊有变成月刊的趋势，也许还会变成双月刊、季刊、半年刊、年刊.....为了挽回这个让人忧伤的趋势，周刊需要更多的同志参与贡献内容，请联系江南白衣.....
+
+--Calvin \| [订阅周刊](http://f5f6.github.io/subscribe.html) \| [参与分享](http://f5f6.github.io/2014/12/28/welcome-to-jekyll/) 
+
+
+# 大数据与云
+
+[Getting start with Storm 中文版](http://ifeve.com/getting-started-with-stom-index/) 
+: Storm是流式处理大数据的框架, 可处理物联网传感器上传的海量数据, [英文原版](http://it-ebooks.info/book/888/) -- Calvin荐
+
+[Storm笔记](http://calvin1978.blogcn.com/articles/stormnotes.html) 
+: 用了一段时间Storm后的笔记。发现可以记的东西不多，证明Storm挺简单的，你只要遵循一些简单的接口与原则，就能写出大规模实时消息处理的程序。 -- Calvin
+
+[Storm是如何成为Apache顶级项目的](http://www.infoq.com/cn/news/2014/10/storm-apache-top-level-project)
+: InfoQ根据一篇Storm创始人的夫子自道写成的很有意思的项目发展历史文。
+
+[Esper学习笔记](http://blog.csdn.net/luonanqin/article/category/1557469)
+: 相比七百九十二页的[官方文档](http://esper.codehaus.org/esper-5.1.0/doc/reference/en-US/html/index.html)，这十几篇笔记相当亲切。 -- Calvin荐
+
+[土人用VirtualBox+CoreOS玩Docker](http://calvin1978.blogcn.com/)
+: 手把手，15分钟在Windows上搭一个可以玩Docker的环境 -- Calvin
+
+[etcd](https://github.com/coreos/etcd)
+: Coreos提供的类似zookeeper的k/v配置数据存储与发现。个人认为比zookeeper简单，并且提供的api是restful的，不像zookeeper那么晦涩难懂 -- Duff荐
+
+
+# 深入，再深入
+
+[Practise of Using Graphite](http://neway6655.github.io/graphite/2015/03/24/practise-of-using-graphite.html)
+: 网上稀缺的深入玩转Graphite的文章，记录项目中采用Graphtie收集业务数据时遇到的问题及解决办法 -- Neway
+
+
+# 语言，语言，Scala
+
+[同事们关于FP语言讨论](http://aleung.github.io/blog/2015/01/25/fp/)
+：　SA Team集体创作， Calvin/Leo整理。
+
+**Duff的『了哥聊Scala』系列**
+
+* [Sublime入门以及搭建scala开发环境](http://duffqiu.github.io/blog/2015/02/25/sublime-startup/) 
+* [Scala2.11版本新特性](http://duffqiu.github.io/blog/2015/03/02/scala211-overview/)
+* [如何将scala作为script语言来作为调用](http://duffqiu.github.io/blog/2015/03/03/scala-script/) 就像我们java代码中调用javacript那样 
+* [如何使用SBT搭建开发工程](http://duffqiu.github.io/blog/2015/02/10/sbt-for-new-user/) 一步一步搭建一个SBT的工程
+* [SBT和Jenkins集成](http://duffqiu.github.io/blog/2015/02/23/integrate-sbt-project-jenkins/) 一步一步构建自动构建环境
+
+
+[Scala 复杂吗？学习困难吗？](http://www.zhihu.com/question/27332932/answer/36205274) Leo荐
+: 如何学好Scala？请给出一条科学的时间线 [1](http://www.zhihu.com/question/26707124/answer/36404470)/[2](http://www.zhihu.com/question/26707124/answer/36476090) 从命令式编程到函数式编程的转变很大，一开始你不需要非常认真的去学一门函数式语言，只要了解它就好了。知道这一派的风格，慢慢喜欢上这样一个程序世界的分支。最重要的，是用函数式语言写程序的人总会感受到乐趣（fun），所以学习函数式语言是非常值得的——虽然刚开始必定会有很多困难，但非常值得。
+
+[函数式编程与大数据](http://www.zhihu.com/question/27630156/answer/37488883) Leo荐
+: 函数式语言，必须在内存消耗和性能消耗两者之间徘徊，而普通的命令式语言就并不会有这种问题。准确而言，现代编程几乎都是由函数式语言奠定的基础，所有命令式语言的高级功能，比如Java的反射，泛型，Java8的Lambda方程，Ruby的宏，全部都是函数式语言的馈赠。所以你想，当在你心目中，这个世界上最牛逼的东西居然内存和效率都拼不过比它挫的语言模式时，函数式的程序员能不恼怒吗？这恼怒带来了两点：1. 死不认账。函数式程序员绝对不会承认它们的语言效率或内存占用比命令式语言糟糕；2. 拼命改进，最终又为计算机科学做出了无数贡献。
+
+# MQ 专题
+
+[Dissecting message queues](http://www.bravenewgeek.com/dissecting-message-queues/)
+： MQ系统大阅兵，有ActiveMQ, RabbitMQ这些老牌的，有Kafka, NSQ这些新秀 --Bell Fan
+
+[Apache Kafka：下一代分布式消息系统](http://www.infoq.com/cn/articles/apache-kafka)
+: 一个特立独行的MQ系统，名字就是卡夫卡， 变成甲壳虫的卡夫卡， 扩展性是它对ActiveMQ， RabbitMQ们骄傲的地方 -- Calvin荐
+
+[Kafka深度解析](http://www.jasongj.com/2015/01/02/Kafka%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90/)
+: 关于Kafka的文章很多，这篇最好 -- Calvin荐
+
+[淘宝RocketMQ与Apache Kafka对比](https://github.com/alibaba/RocketMQ/wiki/rmq_vs_kafka)
+: 淘宝将scala写的Kafka，用java又写了一遍，并认为有若干改进。 -- Calvin  
+
+[NSQ：分布式的实时消息平台](http://www.infoq.com/cn/news/2015/02/nsq-distributed-message-platform)
+: 一个用Go语言编写的新秀，让我们看看新一代的MQ们的普遍水平。
+
+# 邮件订阅
+
+- [订阅周刊](http://f5f6.github.io/subscribe.html)
+
