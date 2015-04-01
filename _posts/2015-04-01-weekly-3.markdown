@@ -41,7 +41,7 @@ category: weekly
 
 # 语言，语言，Scala
 
-[同事们关于FP语言讨论](http://aleung.github.io/blog/2015/01/25/fp/)
+[同事们关于FP语言的讨论](http://aleung.github.io/blog/2015/01/25/fp/)
 : SA Team集体创作，Calvin/Leo整理。
 
 **Duff的『了哥聊Scala』系列**
