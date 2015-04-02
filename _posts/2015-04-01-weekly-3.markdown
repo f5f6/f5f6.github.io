@@ -77,7 +77,7 @@ category: weekly
 # MQ 专题
 
 [Dissecting message queues](http://www.bravenewgeek.com/dissecting-message-queues/)
-: MQ系统大阅兵，有ActiveMQ、RabbitMQ这些老牌的，有Kafka、NSQ这些全新设计充分解决扩展性的新秀 --Bell Fan荐
+: MQ系统大阅兵，有ActiveMQ、RabbitMQ这些老牌的，有Kafka、NSQ这些全新设计充分解决扩展性的新秀 --Bell Fan荐，看图请备梯
 
 [Apache Kafka：下一代分布式消息系统](http://www.infoq.com/cn/articles/apache-kafka)
 : 一个特立独行的MQ系统，名字就是卡夫卡， 变成甲壳虫的卡夫卡， 扩展性是它对ActiveMQ， RabbitMQ们骄傲的地方 -- Calvin荐
