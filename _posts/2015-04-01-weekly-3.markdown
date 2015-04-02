@@ -94,7 +94,7 @@ category: weekly
 # 程序人生
 
 [工程师效率](http://timyang.net/tao/productive-programmer-2)
-:by TimYang, 探讨程序员这个群体这些年效率是变低了还高了，社交网络成瘾，开源软件复用，群体智商下降，软件规模导致的流程复杂度 -- Calvin荐
+: by TimYang, 探讨程序员这个群体这些年效率是变低了还高了，社交网络成瘾，开源软件复用，群体智商下降，软件规模导致的流程复杂度 -- Calvin荐
 
 [谈谈雅虎北研的福利](http://itindex.net/detail/53013-%E9%9B%85%E8%99%8E-%E7%A6%8F%E5%88%A9)
 : 别人家的公司，幸亏倒了 -- Calvin荐
