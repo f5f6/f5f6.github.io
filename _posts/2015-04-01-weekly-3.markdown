@@ -89,7 +89,12 @@ category: weekly
 : 淘宝将scala写的Kafka，用java又写了一遍，并作了若干改进 -- Calvin荐
 
 [NSQ：分布式的实时消息平台](http://www.infoq.com/cn/news/2015/02/nsq-distributed-message-platform)
-: 一个用Go语言编写的新秀，让我们看看新一代MQ们的普遍水平- - Calvin荐
+: 一个用Go语言编写的新秀，让我们看看新一代MQ们的普遍水平 -- Calvin荐
+
+# 程序人生
+
+[工程师效率](http://timyang.net/tao/productive-programmer-2)
+:by TimYang, 探讨程序员这个群体这些年效率是变低了还高了，社交网络成瘾，开源软件复用，群体智商下降，软件规模导致的流程复杂度 -- Calvin荐
 
 # 邮件订阅
 
