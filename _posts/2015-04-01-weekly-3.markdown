@@ -18,7 +18,7 @@ category: weekly
 : Storm是流式处理大数据的框架, 可处理物联网传感器上传的海量数据, [英文原版](http://it-ebooks.info/book/888/) -- Calvin荐
 
 [Storm笔记](http://calvin1978.blogcn.com/articles/stormnotes.html) 
-: 用了一段时间Storm后的笔记。发现可以记的东西不多，证明Storm挺简单的，你只要遵循一些简单的接口与原则，就能写出大规模实时消息处理的程序 -- Calvin
+: 用了一段时间Storm后的笔记。发现可记的东西不多，证明它挺简单的，只要遵循一些简单的接口与原则，就能写出大规模实时消息处理的程序 -- Calvin
 
 [Storm是如何成为Apache顶级项目的](http://www.infoq.com/cn/news/2014/10/storm-apache-top-level-project)
 : InfoQ根据一篇Storm创始人的夫子自道写成的很有意思的项目历史文。
