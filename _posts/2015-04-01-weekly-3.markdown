@@ -7,9 +7,9 @@ category: weekly
 
 # 卷首语
 
-双周刊有变成月刊的趋势，也许还会变成双月刊、季刊、半年刊、年刊.....为了挽回这个让人忧伤的趋势，周刊需要更多的同志贡献内容，请联系你身边还在发文的老同志.....
+双周刊有变成月刊的趋势，也许还会变成双月刊、季刊、半年刊、年刊.....为了挽回这个让人忧伤的趋势，周刊需要更多的同志贡献内容，请联系我.....
 
---Calvin \| [订阅周刊](http://f5f6.github.io/subscribe.html) \| [参与分享](http://f5f6.github.io/2014/12/28/welcome-to-jekyll/) 
+-- 轮席执行主编 Calvin \| [订阅周刊](http://f5f6.github.io/subscribe.html) \| [参与分享](http://f5f6.github.io/2014/12/28/welcome-to-jekyll/) 
 
 
 # 大数据之Storm
@@ -22,6 +22,9 @@ category: weekly
 
 [Storm是如何成为Apache顶级项目的](http://www.infoq.com/cn/news/2014/10/storm-apache-top-level-project)
 : InfoQ根据一篇Storm创始人的夫子自道写成的很有意思的项目历史文。
+
+[事件流如何提高应用程序的扩展性、可靠性和可维护性](http://www.infoq.com/cn/articles/eventflow-app-scalability-reliability-maintainability)
+: 关于事件流，流处理(Stream-Processing)的科普文章 -- Calvin荐
 
 # 云之Docker
 
@@ -46,6 +49,9 @@ category: weekly
 
 [etcd：从应用场景到实现原理的全方位解读](http://www.infoq.com/cn/articles/etcd-interpretation-application-scenario-implement-principle)
 : [etcd](https://github.com/coreos/etcd)是Coreos提供的类似zookeeper的k/v配置数据存储与发现。个人认为比zookeeper简单，并且提供的api是restful的，不像zookeeper那么晦涩难懂 -- Duff荐
+
+[Http 2.0的奇妙日常](http://www.alloyteam.com/2015/03/http2-0-di-qi-miao-ri-chang/)
+: Http2.0来了，关于它的生动介绍 -- Calvin荐
 
 # 语言，语言，Scala
 
