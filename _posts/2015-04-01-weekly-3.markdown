@@ -31,6 +31,9 @@ category: weekly
 [一个不是很短的Docker入门介绍](http://dockerone.com/article/277)
 : 如题，一篇长度适中的Docker指南翻译 -- Calvin荐
 
+[Docker终极指南](http://dockerone.com/article/133)
+: 如题，另一篇不错的Docker入门翻译 -- Calvin荐
+
 [大规模Docker集群助力微博迎接春晚峰值挑战](http://www.weibo.com/p/1001603811301997572906)
 : 一个有说服力的在生产系统使用Docker的案例 -- Calvin荐
 
