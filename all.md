@@ -96,6 +96,7 @@ permalink: /all.html
 ## 资源
 
 - [InfoQ 中文版](http://www.infoq.com/cn/),  [英文版](http://www.infoq.com/)
+- [稀土掘金](http://gold.xitu.io)
 - [开发者头条](http://toutiao.io/)
 - [码农周刊](http://weekly.manong.io/), [分类索引版](https://github.com/nemoTyrant/manong)
 - [Dzone Java](http://java.dzone.com/), [Dzone Architects](http://architects.dzone.com/)
