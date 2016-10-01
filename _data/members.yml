@@ -5,12 +5,10 @@
   links:
   - type: blog
     name: 花钱的年华
-    url: http://calvin1978.blogcn.com/  
+    url: http://calvin1978.blogcn.com/
   - type: 微博
     name: calvin1978
     url: http://www.weibo.com/calvin1978
-
-
 
 - name: Leo Liang
   github: aleung
@@ -19,12 +17,12 @@
   links:
   - type: blog
     name: Good good study, day day up
-    url: http://aleung.github.io/blog/
+    url: https://aleung.github.io/blog/
 
 - name: Homer
   github: aclisp
   links:
-  - type: blog 
+  - type: blog
     name: The Planar Sphere
     url: http://aclisp.github.io
 
@@ -33,21 +31,21 @@
   links:
   - type: blog
     name: Duff Qiu's Blog
-    url: http://duffqiu.github.io 
+    url: https://duffqiu.github.io
 
 - name: Neway
   github: Neway6655
   links:
   - type: blog
     name: Neway6655's blog
-    url: http://neway6655.github.io
+    url: https://neway6655.github.io
 
 - name: Sky Ao
   github: skyao
   links:
   - type: blog
     name: Sky's Blog
-    url: http://skyao.github.io/ 
+    url: https://skyao.github.io/
 
 - name: Jun Xiong
   github: junxiong
@@ -56,10 +54,10 @@
   github: cutemic
   links:
   - type: blog
-    name: Blank Space 
+    name: Blank Space
     url: https://cutemic.github.io
   - type: twitter
-    name: cutemic 
+    name: cutemic
     url: https://twitter.com/cutemic
 
 - name: David Wang
@@ -73,4 +71,11 @@
   links:
   - type: blog
     name: Samuel's life, Samuel's way
-    url: http://eyinsma.github.io/
+    url: https://eyinsma.github.io/
+
+- name: Kasper Deng
+  github: kasperdeng
+  links:
+  - type: blog
+    name: Kasper's WIKI
+    url: https://kasperdeng.github.io/

@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "五楼六楼月刊 2016 第10期"
+author: All Contributors
+category: monthly
+---
+
+# 卷首语
+
+停刊刚好一年半，借此时间点重新开张看看会是什么效果。@Calvin 前任，5楼6楼仍然期待你的贡献。
+双周刊这次真的变成月刊了，鉴于现状，月刊还是现实一点。但希望各位新老司机，多多贡献，也许有变回半月刊，周刊，甚至日刊的可能……
+
+-- [订阅周刊](https://f5f6.github.io/subscribe.html) \| [参与分享](https://f5f6.github.io/2014/12/28/welcome-to-jekyll/)
+
+
+# DevOps
+
+[DevOps之Zabbix](https://kasperdeng.github.io/zabbix/)
+
+# 程序人生
+
+[什么是工程师文化？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650994179&idx=1&sn=dc45ea9b83b098b809a58ea4635ec441)
+: by 左耳朵耗子 996事件、月饼事件让我们深思工程师需要追求什么样的文化？ -- Kasper荐
+
+[华为到该炸掉研发金字塔的时候了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650993652&idx=1&sn=beec368172da1e0b957ed0841641a521)
+: 华为如是，我们如何？ -- Kasper荐
+
+[不要相信程序员在加班时间写的代码](http://www.linuxeden.com/html/news/20160824/167673.html)
+: 留给产品经理们看看 :) -- Kasper荐
+
+# 邮件订阅
+
+- [订阅周刊](https://f5f6.github.io/subscribe.html)
+
+

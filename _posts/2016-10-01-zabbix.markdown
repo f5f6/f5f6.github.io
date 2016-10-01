@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Zabbix"
+author: Kasper
+category: blog
+---
+
+最近搞开运(DevOps)，需要提升监控的体验与效率，zabbix成了首选，借此机会，撰文一篇，持续更新。
+
+[全文閱讀](https://kasperdeng.github.io/zabbix/)
