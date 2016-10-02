@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Weekly Archive
+title: Monthly
+permalink: /monthly/
 ---
 
 <div id="blog-archives">
-{% for post in site.categories.weekly %}
+{% for post in site.categories.monthly %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% unless year == this_year %}
   {% assign year = this_year %}
