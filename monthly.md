@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Monthly
-permalink: /monthly/
+permalink: /monthly.html
 ---
 
 <div id="blog-archives">

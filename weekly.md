@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weekly Archive
-permalink: /weekly/
+permalink: /weekly.html
 ---
 
 <div id="blog-archives">

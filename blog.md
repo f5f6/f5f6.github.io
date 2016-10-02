@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog Archive
+permalink: /blog.html
 ---
 
 <div id="blog-archives">
