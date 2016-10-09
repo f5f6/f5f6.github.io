@@ -107,3 +107,8 @@
 		line-height: 1.1em;
 	}
 }
+
+.footer__copyright {
+    display: block;
+    margin-bottom: .7em;
+}
