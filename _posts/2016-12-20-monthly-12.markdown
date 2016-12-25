@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "五楼六楼月刊 2016 第12期"
+author: All Contributors
+category: monthly
+---
+
+# 卷首语
+
+岁末迎新，恰逢GA，可喜可贺。
+
+![ga1](https://raw.githubusercontent.com/f5f6/f5f6.github.io/master/_images/2016-12-GA/ga1.jpg)
+
+![ga2](https://raw.githubusercontent.com/f5f6/f5f6.github.io/master/_images/2016-12-GA/ga2.jpg)
+
+![ga3](https://raw.githubusercontent.com/f5f6/f5f6.github.io/master/_images/2016-12-GA/ga3.jpg)
+
+![ga4](https://raw.githubusercontent.com/f5f6/f5f6.github.io/master/_images/2016-12-GA/ga4.jpg)
+
+
+
+-- [订阅周刊](https://f5f6.github.io/subscribe.html) \| [参与分享](https://f5f6.github.io/2014/12/28/welcome-to-jekyll/)
+
+
+# DevOps
+
+[Zabbix SNMP Trap Trigger](https://kasperdeng.github.io/zabbix-snmp-trap-trigger/)
+
+[DevOps的未来](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649692834&idx=1&sn=32a0ee00a7329680f138345c11b59e7d)
+: by 张亚龙 我们现在有什么，缺什么，未来是什么？ 借文反思，该文其实没啥好看的 :)
+
+# SDE
+[程序员的markdown笔记本](https://kasperdeng.github.io/markdown-notebook/)
+
+# 程序人生
+
+[硅谷不需要产品经理](https://mp.weixin.qq.com/s?__biz=MjM5ODQ2MDIyMA==&mid=2650712906&idx=1&sn=c6656f06bb18f339ffa6629c6e602940)
+: 我们的技术类产品能没有产品经理么？ -- Kasper荐
+
+[程序员都讨厌开会？](https://mp.weixin.qq.com/s?__biz=MzAxMTEyOTQ5OQ==&mid=2650610757&idx=1&sn=b4b68249fdfd453306fe09e5741360e0)
+: "活已经够多了，还要开会？？！！" 犹记得两年前某天上班路上跟田主席谈论开会的高效性，不管是开发团队还是测试团队，都有这样的苦恼。开会理应为了更高效地干活，如何高效是个topic，但最惨就是参会人的节奏都不一样，事不关己，那团队是该要做retro，甚至要想想团队是否需要重构了。 -- Kasper荐
+
+
+# 邮件订阅
+
+- [订阅周刊](https://f5f6.github.io/subscribe.html)
+
+
