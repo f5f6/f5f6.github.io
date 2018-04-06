@@ -80,7 +80,7 @@
 	#blog-archives h2
 	{
 		display: inline-block;
-		float: left;
+		/*float: left;*/
 		font-weight: normal;
 		margin-bottom: .3em;
 		position: relative;

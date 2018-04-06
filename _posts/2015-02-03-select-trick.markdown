@@ -2,6 +2,7 @@
 layout: post
 author: Samuel Ma
 title: "你还在用Select吗"
+tags: [Linux]
 ---
 
 select()经常作为deMultiplex的分发者，也是reactor模式的重要部分，在编程中会经常遇到，当然java io 编程是不会直接touch到这一部分的。

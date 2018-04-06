@@ -2,6 +2,7 @@
 layout: post
 author: Mic
 title: "OpenStack Keystone 故事一則"
+tags: [openstack]
 ---
 
 在 OpenStack 中服務的認證授權是依靠其的 ID 服務 Identity Service（代號 Keystone）來控制的。

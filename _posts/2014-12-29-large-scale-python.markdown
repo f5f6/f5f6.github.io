@@ -3,6 +3,7 @@ layout: post
 title:  "Large-scale Python"
 author: Homer
 date:   2014-12-29 11:47:48
+tags:   [python]
 category: blog
 ---
 

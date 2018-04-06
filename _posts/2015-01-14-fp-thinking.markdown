@@ -4,6 +4,7 @@ title:  "函数式编程的思考"
 author: Homer
 date:   2015-01-14
 category: blog
+tags: [fp]
 ---
 
 如今的互联网时代，函数式编程越来越频繁的进入普通程序员的眼球。

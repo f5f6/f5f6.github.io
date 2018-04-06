@@ -4,6 +4,7 @@ title:  "Network Setup in OpenStack"
 author: Mic
 date:   2015-01-28 02:35:00
 category: blog
+tags: [openstack]
 ---
 
 這是一篇關於 OpenStack 網絡配置的短文。
