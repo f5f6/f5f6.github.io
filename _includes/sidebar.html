@@ -9,18 +9,18 @@
   </div>
 
   <nav class="sidebar-nav">
-   <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+   <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}"><i class="fas fa-home"></i> Home</a>
    
-   <span class="sidebar-nav-item">Categories</span>
-   <a class="sidebar-nav-item{% if page.url == '/weekly.html' %} active{% endif %}" href="/weekly.html">&gt; Weekly</a>
-   <a class="sidebar-nav-item{% if page.url == '/monthly.html' %} active{% endif %}" href="/monthly.html">&gt; Monthly</a>
-   <a class="sidebar-nav-item{% if page.url == '/blog.html' %} active{% endif %}" href="/blog.html">&gt; Blog Archive</a>
-   <a class="sidebar-nav-item{% if page.url == '/tags.html' %} active{% endif %}" href="/tags.html">Techinal Tags</a>
-   <a class="sidebar-nav-item{% if page.url == '/all.html' %} active{% endif %}" href="/all.html">Content Index</a>
-   <a class="sidebar-nav-item{% if page.url == '/project.html' %} active{% endif %}" href="/project.html">Projects</a>
-   <a class="sidebar-nav-item{% if page.url == '/members/' %} active{% endif %}" href="/members/">Members</a>
-   <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
-   <a class="sidebar-nav-item{% if page.url == '/help.html' %} active{% endif %}" href="/help.html">Help</a>
+   <span class="sidebar-nav-item"><i class="fas fa-th"></i> Categories</span>
+   <a class="sidebar-nav-item{% if page.url == '/weekly.html' %} active{% endif %}" href="/weekly.html"><i class="fas fa-calendar-alt"></i> Weekly</a>
+   <a class="sidebar-nav-item{% if page.url == '/monthly.html' %} active{% endif %}" href="/monthly.html"><i class="far fa-calendar-alt"></i> Monthly</a>
+   <a class="sidebar-nav-item{% if page.url == '/blog.html' %} active{% endif %}" href="/blog.html"><i class="far fa-clock"></i> <b>Original By Time</b></a>
+   <a class="sidebar-nav-item{% if page.url == '/tags.html' %} active{% endif %}" href="/tags.html"><i class="fas fa-tags"></i> <b>Original By Tag</b></a>
+   <a class="sidebar-nav-item{% if page.url == '/all.html' %} active{% endif %}" href="/all.html"><i class="fas fa-archive"></i> <b>Reference Archive</b></a>
+   <a class="sidebar-nav-item{% if page.url == '/project.html' %} active{% endif %}" href="/project.html"><i class="fas fa-puzzle-piece"></i> Projects</a>
+   <a class="sidebar-nav-item{% if page.url == '/members/' %} active{% endif %}" href="/members/"><i class="fas fa-address-card"></i> Members</a>
+   <a class="sidebar-nav-item" href="{{ site.github.repo }}"><i class="fab fa-github"></i> GitHub</a>
+   <a class="sidebar-nav-item{% if page.url == '/about.html' %} active{% endif %}" href="/about.html"><i class="fas fa-question"></i> About F5F6</a>
   </nav>
 
   <div class="sidebar-item">

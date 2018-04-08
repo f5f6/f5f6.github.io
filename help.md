@@ -1,11 +1,40 @@
 ---
 layout: page
-title: Help
-permalink: /help.html
+title: About F5F6
+permalink: /about.html
 ---
 
-- *
-{:toc}
+# 序
+
+## 工程师文化
+
+f5f6的一个初衷是希望能通过技术博客，唤醒工程师们的自我驱动力，对编程的爱好，对技术的兴趣，对学习的热爱。最好能得到老板们的鼎力支持。
+
+在公司的层面上，我们没有996的文化，有宽松的环境，有开放的思想，有Google推崇的20%的自由时间，有脑洞打开的黑客松创新活动。然而这些在项目进度的鞭打下，却变得不那么实际。
+
+在团队层面上，团队越来越大了，但文化底蕴逐渐消亡。在进度敲打的背景下，技术分享日渐式微，测试渐渐偏移自动化轨迹，Code Review变得简化且简陋，对技术的追求不再那么热切。有甚者连“工程师的自我修养”都丢弃了，只能默默背书。 
+
+敏捷面向了管理，而不再是自治的团队。缺少了回顾与展望，只能周而复始的盘旋而不能迭代上升。
+
+也许言之过甚，但底线是工程师的自我修养不能丢，工程师的文化应要有。希望程序猿们能多写点日志，沉淀下技术积累，对团队和社区多点贡献。也希望构建一个带有浓重工程师文化色彩的团队，来驱动产品的演进和技术的发展。
+
+
+## 加入我们 ##
+
+f5f6旨在汇聚一些技术相关的干货，包括但不仅限于开发，测试，运维。参考下面的内容策划，愉快的分享内容。
+
+如果你有Github的账号，请告诉@[KasperDeng](https://github.com/kasperdeng)。
+
+
+## 内容策划 ##
+
+既可以分享日常看到的技术资料与资讯。 放到对应板块，直接提交即可。也将自己原创的日志分享给大家，形成一个f5f6日志的大聚合。
+
+推荐做法是先在自己平常写日志的地方写好日志，然后在f5f6里新建一个日志，复制粘贴日志的开头摘要，然后附加一个链接到你写好的日志。
+f5f6项目, 及开发日志，向大家怒刷存在感或招徕伙伴。
+
+编辑们会定期发送整理后续版面与内容。
+
 
 # 编写指南
 
@@ -21,11 +50,21 @@ permalink: /help.html
 
 网站生成在 GitHub 上进行，每次 git push 到 GitHub 会自动触发重新生成。但建议在本地安装 Jekyll，先在本地预览效果后再提交。
 
-Jekyll 安装与运行方法请参考 [GitHub Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) 的 Installing Jekyll 和 Running Jekyll 部分。为简化Windows平台下的使用，已经自带了一个 all-in-one 的 Jekyll 可执行程序，双击执行`_bin\preview.bat`即可。
+* Jekyll 安装与运行方法请参考 [GitHub Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/) 的 Installing Jekyll 和 Running Jekyll 部分。
+* 为简化Windows平台下的使用，已经自带了一个 all-in-one 的 Jekyll 可执行程序，双击执行`_bin\preview.bat`即可。
 
 ## 草稿
 
-为了避免没有写完的草稿发布出去，新日志应该先放在 `_drafts` 目录中，待完成后才移动到 `_posts` 目录。Draft 中的文件不会在 GitHub 上生成内容，仅当在本地预览时用 `jekyll serve --drafts` 命令才能看到。如果是 Windows 用户，使用 `_bin\preview.bat` 即可。
+* 为了避免没有写完的草稿发布出去，新日志应该先放在 `_drafts` 目录中，待完成后才移动到 `_posts` 目录。
+* Draft 中的文件不会在 GitHub 上生成内容，仅当在本地预览时用 `jekyll serve --drafts` 命令才能看到。
+* 如果是 Windows 用户，使用 `_bin\preview.bat` 即可。
+
+## 内容整理与归类
+* 原创博客，请添加在正文最开始处添加`tags`头信息，例如`tags: [docker]`。所有标签会在[tags](/tags.html)页面自动分类。
+* 引用文章，管理员会在[内容索引](/all.html)下手工整理分类。
+* 电子书籍，请添加到`topic/book.md`。
+* 热门技术，请添加到`topic/pop.md`。
+* 工具推荐，请添加到`topic/tool.md`。
 
 # Markdown语法
 

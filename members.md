@@ -3,8 +3,7 @@ layout: page
 title: Members
 permalink: /members/
 ---
-- .
-{:toc}
+
 
 {% assign member_list = site.data.members | sort:"name" %}
 

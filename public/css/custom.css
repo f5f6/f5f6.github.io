@@ -112,3 +112,23 @@
     display: block;
     margin-bottom: .7em;
 }
+
+.topButton {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: #f0f0f0;
+    color: #75b5aa;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 2px;
+}
+   
+.topButton:hover {
+   background-color: #555;
+}
