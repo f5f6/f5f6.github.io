@@ -3,5 +3,7 @@
 
 _site
 
+Gemfile
 *.lock
 Thumbs.db
+

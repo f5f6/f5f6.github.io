@@ -18,7 +18,7 @@ GitHub: [{{member.github}}](http://www.github.com/{{member.github}}/)
 
 {% if member.description %}{{ member.description }}{% endif %}
   
-{% assign post_list = site.posts | where:"author", member.name } %}  
+{% assign post_list = site.posts | where:"author", member.name %}  
 {% if post_list.size > 0 %}
 {% for post in post_list %}
 * [{{post.title}}]({{ root_url }}{{ post.url }}){% endfor %}

@@ -2,8 +2,9 @@
 title:               Floor 5, Floor 6
 tagline:             在五楼与六楼之间爬上爬下的程序猿
 description:         '五楼，六楼……'
-baseurl:             /                          # the subpath of your site, e.g. /blog/
+baseurl:                                       # the subpath of your site, e.g. /blog/
 url:                 https://f5f6.github.io
+repository:          f5f6/f5f6.github.io
 
 # Build settings
 permalink:           /:year/:month/:day/:title/
@@ -28,7 +29,3 @@ kramdown:
     css: class
 
 paginate:            3
-
-# Custom variables
-github:
-  repo:              https://github.com/f5f6
