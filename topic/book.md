@@ -14,6 +14,10 @@ permalink: /book.html
 : 荐书： Java8的改进太大, 值得《Core Java》的作者再码一本 -- Calvin\\
   原版： [《Java SE 8 for the Really Impatient》](http://it-ebooks.info/book/3677/)
 
+* [《Java 并发编程的艺术》](https://book.douban.com/subject/26591326/)
+: 荐书： 自底向上的讲述了 Java 世界里的并发原理及其应用，有不少收获 - Robin\\
+  作者有将比较早版本的 PDF 放在网上：[《Java 并发编程的艺术》 - PDF](http://www.infoq.com/cn/minibooks/art-of-java-concurrent-program )
+
 # javascript
 
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide)
